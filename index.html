@@ -21,6 +21,10 @@ h2,h3,h4,h5,p{
     padding-left: 20px;
 }
 
+.intro{
+  line-height: 20px;
+}
+
 .credit{
     text-align: center;
     padding-top: 20px;
@@ -35,10 +39,6 @@ h2,h3,h4,h5,p{
     width:80%;
     margin-left: auto;
     margin-right: auto;
-}
-
-#main_container{
-    margin-top: 50px;
 }
 
 .container{
@@ -72,6 +72,48 @@ h2,h3,h4,h5,p{
 	border-top: 1px solid darkgrey;
 }
 
+.mk, .sk, .th, .tw, .jp, .us, .vt, .ms, .rs{
+  opacity: 0.2;
+}
+
+@media only screen and (min-width:768px) {
+
+  .container{
+    width: 35%;
+    margin-top: 50px;
+    margin-left: 0px;
+}
+
+  .fixed{
+    width: 60%;
+    float:right;
+    position: fixed;
+    padding-top: 20px;
+    right: 20px;
+    font-style: bold;
+  }
+
+  }
+
+
+@media only screen and (max-width:767px) {
+
+  .container{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 0px;
+}
+  
+  .fixed{
+    width: 80%;
+    position:fixed;
+    left:20px;
+    top:20px;
+  }
+
+
+}
+
 
 </style>
 
@@ -81,86 +123,83 @@ h2,h3,h4,h5,p{
 <h1>China Outbound Tourism in Review</h1>
 <h5 class="credit">By JIEQIAN ZHANG</h5>
 <h5 class="date">DEC.24, 2015</h5>
-<h5 class="intro">Lorem ipsum dolor sit amet, verear intellegam eu quo, usu at essent explicari, has duis simul commodo no. Ad eos accusata iudicabit, at mei graece doctus. No dicant moderatius ius, ullamcorper interpretaris ea mel. Zril aeterno tincidunt nec et. Falli omittantur vix ei. Erat congue pri in, qui inani accumsan incorrupte ad. Ea unum simul tritani his, soluta voluptatum assueverit qui at, an labore lucilius pro.
+<h5 class="intro"> The number of outbound trips taken by Mainland Chinese tourists have seen itself a rapid growth over the past decade. According to the China National Tourism Administration, in 2014, China's yearly outbound tourists reached 100 million for the first time, and in the first half of 2015, the number has exceeded 610 million. Asia still dominates China's outbound tourism market, followed by the United States and Europe. 
 </h5>
-<h5 class="intro">Lorem ipsum dolor sit amet, verear intellegam eu quo, usu at essent explicari, has duis simul commodo no. Ad eos accusata iudicabit, at mei graece doctus. No dicant moderatius ius, ullamcorper interpretaris ea mel. Zril aeterno tincidunt nec et. Falli omittantur vix ei. Erat congue pri in, qui inani accumsan incorrupte ad. Ea unum simul tritani his, soluta voluptatum assueverit qui at, an labore lucilius pro.
+<h5 class="intro">Many reasons could lead to an increase of Chinese tourists – simplied visa application procedure,  , or even a popular movie. Here we are going to have a review on the top 10 destinations for Chinese tourists and see what could be the reason for an increase/drop. 
 </h5>
-</div>
+</div> 
 
 
 
 <div id="main_container">
    
-    <div class="container">
-        <p><strong>Hong Kong, Special Administration Region of China</strong></p>
-        <p>Hong Kong has ranked the first for 10 years as the top desitination for Chinese mainland tourists.</p>
+
+     <div class="fixed">
+        <p class="hk"> Hong Kong has ranked as the top destination for Chinese mainland tourists for over 10 years. The number, however,dropped dramatically due to the protests against mainland shoppers in the first half of 2015. Dr. Lam Kin-ngok, chairman of Hong Kong Tourism Board, predicted that the number of mainland tourists will drop by 1% to 2% in 2015. If so, the year of 2015 will be the first year seeing a tourist drop since Hong Kong implemented Individual Visit Scheme, which let in individual mainland tourist to Hong Kong, in 2003.</p>
+    </div>
+
+
+    <div class="container hk">
+        <h4><strong>Hong Kong</strong></h4>
         <div id="graphic1"> 
         </div>
     </div>
 
 
-    <div class="container">
-        <p><strong>Macao, Special Administration Region of China</strong></p>
-        <p>Lorem ipsum dolor sit amet, verear intellegam eu quo, usu at essent explicari, has duis simul commodo no. Ad eos accusata iudicabit, at mei graece doctus.</p>
+    <div class="container mk">
+        <h4><strong>Macao</strong></h4>
         <div id="graphic2"> 
         </div>
     </div>
 
-    <div class="container">
-        <p><strong>South Korea</strong></p>
-        <p>Lorem ipsum dolor sit amet, verear intellegam eu quo, usu at essent explicari, has duis simul commodo no. Ad eos accusata iudicabit, at mei graece doctus.</p>
+    <div class="container sk">
+        <h4><strong>South Korea</strong></h4>
         <div id="graphic3"> 
         </div>
     </div>
 
-    <div class="container">
-        <p><strong>Thailand</strong></p>
-        <p>Lorem ipsum dolor sit amet, verear intellegam eu quo, usu at essent explicari, has duis simul commodo no. Ad eos accusata iudicabit, at mei graece doctus.</p>
+    <div class="container th">
+        <h4><strong>Thailand</strong></h4>
         <div id="graphic4"> 
         </div>
     </div>
 
-    <div class="container">
-        <p><strong>Taiwan</strong></p>
-        <p>Lorem ipsum dolor sit amet, verear intellegam eu quo, usu at essent explicari, has duis simul commodo no. Ad eos accusata iudicabit, at mei graece doctus.</p>
+    <div class="container tw">
+        <h4><strong>Taiwan</strong></h4>
         <div id="graphic5"> 
         </div>
     </div>
 
-    <div class="container">
-        <p><strong>Japan</strong></p>
-        <p>Lorem ipsum dolor sit amet, verear intellegam eu quo, usu at essent explicari, has duis simul commodo no. Ad eos accusata iudicabit, at mei graece doctus.</p>
+    <div class="container jp">
+        <h4><strong>Japan</strong></h4>
         <div id="graphic6"> 
         </div>
     </div>
 
-    <div class="container">
-        <p><strong>United States</strong></p>
-        <p>Lorem ipsum dolor sit amet, verear intellegam eu quo, usu at essent explicari, has duis simul commodo no. Ad eos accusata iudicabit, at mei graece doctus.</p>
+    <div class="container us">
+        <h4><strong>United States</strong></h4>
         <div id="graphic7"> 
         </div>
     </div>
 
-    <div class="container">
-        <p><strong>Vietnam</strong></p>
-        <p>Lorem ipsum dolor sit amet, verear intellegam eu quo, usu at essent explicari, has duis simul commodo no. Ad eos accusata iudicabit, at mei graece doctus.</p>
+    <div class="container vt">
+        <h4><strong>Vietnam</strong></h4>
         <div id="graphic8"> 
         </div>
     </div>
 
-    <div class="container">
-        <p><strong>Malaysia</strong></p>
-        <p>Lorem ipsum dolor sit amet, verear intellegam eu quo, usu at essent explicari, has duis simul commodo no. Ad eos accusata iudicabit, at mei graece doctus.</p>
+    <div class="container ms">
+        <h4><strong>Malaysia</strong></h4>
         <div id="graphic9"> 
         </div>
     </div>
 
-    <div class="container">
-        <p><strong>Russia</strong></p>
-        <p>Lorem ipsum dolor sit amet, verear intellegam eu quo, usu at essent explicari, has duis simul commodo no. Ad eos accusata iudcabit, at mei graece doctus.</p>
+    <div class="container rs">
+        <h4><strong>Russia</strong></h4>
         <div id="graphic10"> 
         </div>
     </div>
+
 </div>
 
 <div id="source">
@@ -409,12 +448,12 @@ d3.csv("data.csv", function(error, data) {
       .attr("class", "line")
       .attr("d", line);
 
-
-  // draw the Taiwan chart
+ 
+  // draw the Taiwan chart, using a different range
 
  var svg_tw = d3.select("#graphic5").append("svg")
     .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
+    .attr("height", height * 2 + margin.top + margin.bottom)
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -424,20 +463,40 @@ d3.csv("data.csv", function(error, data) {
     }
   });
 
+  var y_tw = d3.scale.linear()
+    .range([height * 2, 0])
+    .domain([0,210]);
 
-  x.domain([2004,2014]);
-  y.domain([-210,210]);
+ var xAxis_tw = d3.svg.axis()
+    .scale(x)
+    .orient("bottom")
+    .tickSize(-height * 2,0,0)
+    .tickValues([2004,2006,2008,2010,2012,2014])
+    .tickFormat(d3.format("d"));
 
-  yAxis.tickValues([200, 100, 0, -100, -200]);
+var yAxis_tw = d3.svg.axis()
+    .scale(y_tw)
+    .orient("left")
+    .tickSize(-windowWidth,0,0)
+    .tickValues([200, 150, 100, 50]);
+
+var area_tw = d3.svg.area()
+    .x(function(d) { return x(d.year); })
+    .y0(height * 2)
+    .y1(function(d) { return y_tw(d.increase_rate); });
+
+var line_tw = d3.svg.line()
+     .x(function(d) { return x(d.year); })
+     .y(function(d) { return y_tw(d.increase_rate); });
 
   svg_tw.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis);
+      .attr("transform", "translate(0," + height * 2 + ")")
+      .call(xAxis_tw);
 
   svg_tw.append("g")
       .attr("class", "y axis")
-      .call(yAxis)
+      .call(yAxis_tw)
       .append("text")
       .attr("transform", "rotate(-90)")
       .attr("y", -40)
@@ -449,13 +508,13 @@ d3.csv("data.csv", function(error, data) {
   svg_tw.append("path")
       .datum(data_tw)
       .attr("class", "area")
-      .attr("d", area)
+      .attr("d", area_tw)
       .style("fill","#9e2f50");
 
   svg_tw.append("path")
       .datum(data_tw)
       .attr("class", "line")
-      .attr("d", line);
+      .attr("d", line_tw);
 
 
 
@@ -475,9 +534,9 @@ d3.csv("data.csv", function(error, data) {
 
 
   x.domain([2004,2014]);
-  y.domain([-110,110]);
+  y.domain([-60,60]);
 
-  yAxis.tickValues([100, 50, 0, -50, -100]);
+  yAxis.tickValues([50, 25, 0, -25, -50]);
 
   svg_jp.append("g")
       .attr("class", "x axis")
@@ -524,9 +583,9 @@ d3.csv("data.csv", function(error, data) {
 
 
   x.domain([2004,2014]);
-  y.domain([-110,110]);
+  y.domain([-60,60]);
 
-  yAxis.tickValues([100, 50, 0, -50, -100]);
+  yAxis.tickValues([50, 25, 0, -25, -50]);
 
   svg_us.append("g")
       .attr("class", "x axis")
@@ -572,9 +631,9 @@ d3.csv("data.csv", function(error, data) {
 
 
   x.domain([2004,2014]);
-  y.domain([-110,110]);
+  y.domain([-60,60]);
 
-  yAxis.tickValues([100, 50, 0, -50, -100]);
+  yAxis.tickValues([50, 25, 0, -25, -50]);
 
   svg_vt.append("g")
       .attr("class", "x axis")
@@ -619,9 +678,9 @@ d3.csv("data.csv", function(error, data) {
 
 
   x.domain([2004,2014]);
-  y.domain([-110,110]);
+  y.domain([-60,60]);
 
-  yAxis.tickValues([100, 50, 0, -50, -100]);
+  yAxis.tickValues([50, 25, 0, -25, -50]);
 
   svg_ms.append("g")
       .attr("class", "x axis")
@@ -667,9 +726,9 @@ d3.csv("data.csv", function(error, data) {
 
 
   x.domain([2004,2014]);
-  y.domain([-110,110]);
+  y.domain([-60,60]);
 
-  yAxis.tickValues([100, 50, 0, -50, -100]);
+  yAxis.tickValues([50, 25, 0, -25, -50]);
 
   svg_rs.append("g")
       .attr("class", "x axis")
@@ -710,7 +769,7 @@ d3.csv("data.csv", function(error, data) {
 
         // resize the chart
         x.range([0, width]);
-        y.range([height, 0]);
+        y.domain([-60,60])
 
         d3.select(svg_hk.node().parentNode)
             .style("width", (width + margin.left + margin.right) + "px");
@@ -724,112 +783,114 @@ d3.csv("data.csv", function(error, data) {
         svg_hk.select("g").call(xAxis.orient("bottom"));
 
 
-        // d3.select(svg_mk.node().parentNode)
-        //     .style("width", (width + margin.left + margin.right) + "px");
+        d3.select(svg_mk.node().parentNode)
+            .style("width", (width + margin.left + margin.right) + "px");
        
-        // svg_mk.selectAll(".area")
-        //     .attr("d", area);
+        svg_mk.selectAll(".area")
+            .attr("d", area);
 
-        // svg_mk.selectAll(".line")
-        //     .attr("d",line)
+        svg_mk.selectAll(".line")
+            .attr("d",line)
 
-        // svg_mk.select("g").call(xAxis.orient("bottom"));
+        svg_mk.select("g").call(xAxis.orient("bottom"));
 
 
-        // d3.select(svg_sk.node().parentNode)
-        //     .style("width", (width + margin.left + margin.right) + "px");
+        d3.select(svg_sk.node().parentNode)
+            .style("width", (width + margin.left + margin.right) + "px");
        
-        // svg_sk.selectAll(".area")
-        //     .attr("d", area);
+        svg_sk.selectAll(".area")
+            .attr("d", area);
 
-        // svg_sk.selectAll(".line")
-        //     .attr("d",line)
+        svg_sk.selectAll(".line")
+            .attr("d",line)
 
-        // svg_sk.select("g").call(xAxis.orient("bottom"));
+        svg_sk.select("g").call(xAxis.orient("bottom"));
 
 
-        // d3.select(svg_th.node().parentNode)
-        //     .style("width", (width + margin.left + margin.right) + "px");
+        d3.select(svg_th.node().parentNode)
+            .style("width", (width + margin.left + margin.right) + "px");
        
-        // svg_th.selectAll(".area")
-        //     .attr("d", area);
+        svg_th.selectAll(".area")
+            .attr("d", area);
 
-        // svg_th.selectAll(".line")
-        //     .attr("d",line)
+        svg_th.selectAll(".line")
+            .attr("d",line)
 
-        // svg_th.select("g").call(xAxis.orient("bottom"));
+        svg_th.select("g").call(xAxis.orient("bottom"));
 
 
-        // d3.select(svg_tw.node().parentNode)
-        //     .style("width", (width + margin.left + margin.right) + "px");
+
+        d3.select(svg_tw.node().parentNode)
+            .style("width", (width + margin.left + margin.right) + "px");
+        y_tw.domain([0,210])
+
+        svg_tw.selectAll(".area")
+            .attr("d", area_tw);
+
+        svg_tw.selectAll(".line")
+            .attr("d",line_tw)
+
+        svg_tw.select("g").call(xAxis_tw.orient("bottom"));
+
+
+        d3.select(svg_jp.node().parentNode)
+            .style("width", (width + margin.left + margin.right) + "px");
        
-        // svg_tw.selectAll(".area")
-        //     .attr("d", area);
+        svg_jp.selectAll(".area")
+            .attr("d", area);
 
-        // svg_tw.selectAll(".line")
-        //     .attr("d",line)
+        svg_jp.selectAll(".line")
+            .attr("d",line)
 
-        // svg_tw.select("g").call(xAxis.orient("bottom"));
+        svg_jp.select("g").call(xAxis.orient("bottom"));
 
 
-        // d3.select(svg_jp.node().parentNode)
-        //     .style("width", (width + margin.left + margin.right) + "px");
+        d3.select(svg_us.node().parentNode)
+            .style("width", (width + margin.left + margin.right) + "px");
        
-        // svg_jp.selectAll(".area")
-        //     .attr("d", area);
+        svg_us.selectAll(".area")
+            .attr("d", area);
 
-        // svg_jp.selectAll(".line")
-        //     .attr("d",line)
+        svg_us.selectAll(".line")
+            .attr("d",line)
 
-        // svg_jp.select("g").call(xAxis.orient("bottom"));
+        svg_us.select("g").call(xAxis.orient("bottom"));
 
 
-        // d3.select(svg_us.node().parentNode)
-        //     .style("width", (width + margin.left + margin.right) + "px");
+        d3.select(svg_vt.node().parentNode)
+            .style("width", (width + margin.left + margin.right) + "px");
        
-        // svg_us.selectAll(".area")
-        //     .attr("d", area);
+        svg_vt.selectAll(".area")
+            .attr("d", area);
 
-        // svg_us.selectAll(".line")
-        //     .attr("d",line)
+        svg_vt.selectAll(".line")
+            .attr("d",line)
 
-        // svg_us.select("g").call(xAxis.orient("bottom"));
+        svg_vt.select("g").call(xAxis.orient("bottom"));
 
 
-        // d3.select(svg_vt.node().parentNode)
-        //     .style("width", (width + margin.left + margin.right) + "px");
+        d3.select(svg_ms.node().parentNode)
+            .style("width", (width + margin.left + margin.right) + "px");
        
-        // svg_vt.selectAll(".area")
-        //     .attr("d", area);
+        svg_ms.selectAll(".area")
+            .attr("d", area);
 
-        // svg_vt.selectAll(".line")
-        //     .attr("d",line)
+        svg_ms.selectAll(".line")
+            .attr("d",line)
 
-        // svg_vt.select("g").call(xAxis.orient("bottom"));
+        svg_ms.select("g").call(xAxis.orient("bottom"));
 
 
-        // d3.select(svg_ms.node().parentNode)
-        //     .style("width", (width + margin.left + margin.right) + "px");
+        d3.select(svg_rs.node().parentNode)
+            .style("width", (width + margin.left + margin.right) + "px");
        
-        // svg_ms.selectAll(".area")
-        //     .attr("d", area);
+        svg_rs.selectAll(".area")
+            .attr("d", area);
 
-        // svg_ms.selectAll(".line")
-        //     .attr("d",line)
+        svg_rs.selectAll(".line")
+            .attr("d",line)
 
-        // svg_ms.select("g").call(xAxis.orient("bottom"));
-
-
-        // d3.select(svg_rs.node().parentNode)
-        //     .style("width", (width + margin.left + margin.right) + "px");
-       
-        // svg_rs.selectAll(".area")
-        //     .attr("d", area);
-
-        // svg_rs.selectAll(".line")
-        //     .attr("d",line)
-
-        // svg_rs.select("g").call(xAxis.orient("bottom"));
+        svg_rs.select("g").call(xAxis.orient("bottom"));
 
     }
 
