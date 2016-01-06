@@ -1,0 +1,2127 @@
+country,country_code,income_group,method,region,year,outbound,increase_rate
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,1999,189,
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2000,379,100.529101
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2001,331,-12.664908
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2002,688,107.854985
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2003,562,-18.313953
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2004,1189,111.565836
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2005,1233,3.700589
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2006,1005,-18.491484
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2007,880,-12.437811
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2008,1267,43.977273
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2009,1346,6.235201
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2010,1718,27.637444
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2011,1967,14.493597
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2012,3129,59.074733
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2013,3961,26.589965
+Albania,ALB,Upper middle income,VFN,Europe & Central Asia,2014,3882,-1.994446
+Algeria,DZA,Upper middle income,VFN,Middle East & North Africa,2011,20153,
+Algeria,DZA,Upper middle income,VFN,Middle East & North Africa,2012,25383,25.951471
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,1995,258,
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,1996,669,159.302326
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,1997,111,-83.408072
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,1998,262,136.036036
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,1999,37,-85.877863
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,2000,351,848.648649
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,2001,722,105.698006
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,2005,501,-30.609418
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,2006,439,-12.37525
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,2008,229,-47.835991
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,2009,325,41.921397
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,2010,257,-20.923077
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,2011,401,56.031128
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,2012,400,-0.249377
+American Samoa,ASM,Upper middle income,TFN,East Asia & Pacific,2013,425,6.25
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,1998,215,
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,1999,268,24.651163
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,2000,475,77.238806
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,2001,653,37.473684
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,2002,712,9.035222
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,2005,5849,721.488764
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,2006,9636,64.74611
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,2007,18500,91.988377
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,2008,43035,132.621622
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,2009,51900,20.599512
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,2010,60577,16.71869
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,2011,69907,15.401885
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,2012,69334,-0.81966
+Angola,AGO,Upper middle income,TFR,Sub-Saharan Africa,2013,84300,21.585369
+Antigua and Barbuda,ATG,High income: nonOECD,TFR,Latin America & Caribbean,2011,342,
+Antigua and Barbuda,ATG,High income: nonOECD,TFR,Latin America & Caribbean,2012,450,31.578947
+Antigua and Barbuda,ATG,High income: nonOECD,TFR,Latin America & Caribbean,2013,540,20
+Antigua and Barbuda,ATG,High income: nonOECD,TFR,Latin America & Caribbean,2014,652,20.740741
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,1995,6,
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,1996,35,483.333333
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,1997,105,200
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,1998,68,-35.238095
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,1999,158,132.352941
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2000,172,8.860759
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2001,225,30.813953
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2002,305,35.555556
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2003,345,13.114754
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2004,968,180.57971
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2005,1685,74.070248
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2006,3020,79.228487
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2007,7780,157.615894
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2008,8100,4.113111
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2009,8400,3.703704
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2010,8450,0.595238
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2011,9713,14.946746
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2012,9867,1.585504
+Armenia,ARM,Lower middle income,TFR,Europe & Central Asia,2013,9924,0.577683
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,1995,42600,
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,1996,54000,26.760563
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,1997,65843,21.931481
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,1998,76544,16.252297
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,1999,92585,20.956574
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2000,120259,29.890371
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2001,157955,31.345679
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2002,190016,20.297553
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2003,176128,-7.308858
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2004,251300,42.680323
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2005,285031,13.422602
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2006,308484,8.228228
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2007,357557,15.907794
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2008,356428,-0.315754
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2009,356240,-0.052746
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2010,445860,25.157197
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2011,533370,19.627237
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2012,618820,16.020774
+Australia,AUS,High income: OECD,VFR,East Asia & Pacific,2013,708770,14.535729
+Austria,AUT,High income: OECD,TCER,Europe & Central Asia,2004,172361,
+Austria,AUT,High income: OECD,TCER,Europe & Central Asia,2005,176777,2.562065
+Austria,AUT,High income: OECD,TCER,Europe & Central Asia,2006,176680,-0.054871
+Austria,AUT,High income: OECD,TCER,Europe & Central Asia,2007,171123,-3.145234
+Austria,AUT,High income: OECD,TCER,Europe & Central Asia,2008,156190,-8.726472
+Austria,AUT,High income: OECD,TCER,Europe & Central Asia,2009,155179,-0.647289
+Austria,AUT,High income: OECD,TCER,Europe & Central Asia,2010,182282,17.465636
+Austria,AUT,High income: OECD,TCER,Europe & Central Asia,2011,259944,42.605414
+Austria,AUT,High income: OECD,TCER,Europe & Central Asia,2012,354657,36.435925
+Austria,AUT,High income: OECD,TCER,Europe & Central Asia,2013,408509,15.184248
+Austria,AUT,High income: OECD,TCER,Europe & Central Asia,2014,497925,21.888379
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2002,591,
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2003,1280,116.582064
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2004,1532,19.6875
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2005,1595,4.112272
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2006,2061,29.216301
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2007,2458,19.262494
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2008,7138,190.398698
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2009,6322,-11.431774
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2010,5846,-7.529263
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2011,6224,6.46596
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2012,5060,-18.701799
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2013,6465,27.766798
+Azerbaijan,AZE,Upper middle income,VFR,Europe & Central Asia,2014,5930,-8.275329
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2000,503,
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2001,356,-29.224652
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2002,155,-56.460674
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2003,279,80
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2004,345,23.655914
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2005,290,-15.942029
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2006,278,-4.137931
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2007,206,-25.899281
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2008,265,28.640777
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2009,486,83.396226
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2010,384,-20.987654
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2011,682,77.604167
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2012,890,30.498534
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2013,782,-12.134831
+Bahamas,BHS,High income: nonOECD,TFR,Latin America & Caribbean,2014,1695,116.751918
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,1997,1544,
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,1998,2441,58.095855
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,1999,2128,-12.822614
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,2000,2383,11.983083
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,2001,4186,75.660932
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,2002,6693,59.89011
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,2003,6051,-9.592111
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,2004,7669,26.739382
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,2005,8699,13.430695
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,2006,10136,16.51914
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,2007,13193,30.159826
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,2011,22418,69.923444
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,2012,22805,1.726291
+Bahrain,BHR,High income: nonOECD,VFN,Middle East & North Africa,2013,1211,-94.689761
+Bangladesh,BGD,Lower middle income,TFN,South Asia,1995,3408,
+Bangladesh,BGD,Lower middle income,TFN,South Asia,1996,4016,17.840376
+Bangladesh,BGD,Lower middle income,TFN,South Asia,1997,4869,21.24004
+Bangladesh,BGD,Lower middle income,TFN,South Asia,1998,4379,-10.063668
+Bangladesh,BGD,Lower middle income,TFN,South Asia,1999,5208,18.931263
+Bangladesh,BGD,Lower middle income,TFN,South Asia,2000,5901,13.306452
+Bangladesh,BGD,Lower middle income,TFN,South Asia,2001,6867,16.370107
+Bangladesh,BGD,Lower middle income,TFN,South Asia,2002,6681,-2.708606
+Bangladesh,BGD,Lower middle income,TFN,South Asia,2003,7021,5.089059
+Bangladesh,BGD,Lower middle income,TFN,South Asia,2004,9238,31.576698
+Bangladesh,BGD,Lower middle income,TFN,South Asia,2005,6892,-25.395107
+Bangladesh,BGD,Lower middle income,TFN,South Asia,2006,6955,0.914103
+Bangladesh,BGD,Lower middle income,TFN,South Asia,2007,11825,70.021567
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,1999,114,
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2000,175,53.508772
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2001,166,-5.142857
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2002,274,65.060241
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2003,185,-32.481752
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2004,214,15.675676
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2005,372,73.831776
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2006,355,-4.569892
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2007,478,34.647887
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2008,399,-16.527197
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2009,531,33.082707
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2010,397,-25.235405
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2011,403,1.511335
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2012,499,23.82134
+Barbados,BRB,High income: nonOECD,TFR,Latin America & Caribbean,2013,485,-2.805611
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,1995,217,
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,1996,672,209.677419
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,1997,900,33.928571
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,1998,1089,21
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,1999,246,-77.410468
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2000,100,-59.349594
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2001,115,15
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2002,399,246.956522
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2003,361,-9.52381
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2004,323,-10.526316
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2005,375,16.099071
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2006,343,-8.533333
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2007,599,74.635569
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2008,376,-37.228715
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2009,391,3.989362
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2010,603,54.219949
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2011,364,-39.635158
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2012,314,-13.736264
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2013,682,117.197452
+Belarus,BLR,Upper middle income,TFN,Europe & Central Asia,2014,266,-60.997067
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,1995,17415,
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,1996,30866,77.238013
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,1997,48703,57.788505
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,1998,51428,5.595138
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,1999,57642,12.082912
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2000,55384,-3.917283
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2001,62037,12.012495
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2002,112652,81.588407
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2003,107016,-5.003018
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2004,114456,6.952231
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2005,108702,-5.027259
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2006,107380,-1.216169
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2007,98150,-8.595642
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2008,74959,-23.62812
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2009,75219,0.346856
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2010,79908,6.233797
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2011,101448,26.955999
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2012,122054,20.311884
+Belgium,BEL,High income: OECD,TCER,Europe & Central Asia,2013,149399,22.404018
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,1999,127,
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2000,189,48.818898
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2001,27,-85.714286
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2002,89,229.62963
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2003,100,12.359551
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2004,124,24
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2005,209,68.548387
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2006,266,27.272727
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2007,300,12.781955
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2008,1073,257.666667
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2009,410,-61.789376
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2010,371,-9.512195
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2011,580,56.334232
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2012,1877,223.62069
+Benin,BEN,Low income,TFR,Sub-Saharan Africa,2013,3870,106.180075
+Bhutan,BTN,Lower middle income,TFN,South Asia,1995,3,
+Bhutan,BTN,Lower middle income,TFN,South Asia,1997,9,200
+Bhutan,BTN,Lower middle income,TFN,South Asia,1998,12,33.333333
+Bhutan,BTN,Lower middle income,TFN,South Asia,1999,11,-8.333333
+Bhutan,BTN,Lower middle income,TFN,South Asia,2000,10,-9.090909
+Bhutan,BTN,Lower middle income,TFN,South Asia,2001,27,170
+Bhutan,BTN,Lower middle income,TFN,South Asia,2002,25,-7.407407
+Bhutan,BTN,Lower middle income,TFN,South Asia,2003,23,-8
+Bhutan,BTN,Lower middle income,TFN,South Asia,2004,78,239.130435
+Bhutan,BTN,Lower middle income,TFN,South Asia,2005,234,200
+Bhutan,BTN,Lower middle income,TFN,South Asia,2006,362,54.700855
+Bhutan,BTN,Lower middle income,TFN,South Asia,2007,504,39.226519
+Bhutan,BTN,Lower middle income,TFN,South Asia,2008,1069,112.103175
+Bhutan,BTN,Lower middle income,TFN,South Asia,2009,1143,6.922357
+Bhutan,BTN,Lower middle income,TFN,South Asia,2010,1494,30.708661
+Bhutan,BTN,Lower middle income,TFN,South Asia,2011,2896,93.842035
+Bhutan,BTN,Lower middle income,TFN,South Asia,2012,3766,30.041436
+Bhutan,BTN,Lower middle income,TFN,South Asia,2013,4764,26.500266
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,1997,74,
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,1998,37,-50
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,1999,57,54.054054
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2000,80,40.350877
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2001,109,36.25
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2002,307,181.651376
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2003,315,2.605863
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2004,276,-12.380952
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2005,308,11.594203
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2006,194,-37.012987
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2007,497,156.185567
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2008,534,7.444668
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2009,478,-10.486891
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2010,770,61.087866
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2011,2244,191.428571
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2012,3369,50.13369
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2013,5642,67.468091
+Bosnia and Herzegovina,BIH,Upper middle income,TCER,Europe & Central Asia,2014,6549,16.07586
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,1995,411,
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,1996,214,-47.931873
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,1997,440,105.607477
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,1998,385,-12.5
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,1999,433,12.467532
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,2000,586,35.334873
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,2001,462,-21.16041
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,2002,1203,160.38961
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,2003,934,-22.360765
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,2004,1062,13.704497
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,2006,1586,49.340866
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,2007,2197,38.52459
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,2008,1797,-18.206645
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,2009,2719,51.307735
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,2010,4171,53.401986
+Botswana,BWA,Upper middle income,TFR,Sub-Saharan Africa,2012,9211,120.834332
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,1995,7749,
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,1996,13143,69.608982
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,1997,12014,-8.590124
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,1998,16005,33.219577
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,1999,17506,9.378319
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2000,17881,2.142123
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2001,18320,2.45512
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2002,13981,-23.684498
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2003,10714,-23.367427
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2004,16305,52.184058
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2005,18017,10.499847
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2006,31156,72.92557
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2007,23490,-24.605212
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2008,39514,68.216262
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2009,28230,-28.556967
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2010,37849,34.07368
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2011,55978,47.898227
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2012,65945,17.805209
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2013,60140,-8.80279
+Brazil,BRA,Upper middle income,TFR,Latin America & Caribbean,2014,57502,-4.386432
+British Virgin Islands,VIR,High income: nonOECD,TFR,Latin America & Caribbean,2009,28,
+British Virgin Islands,VIR,High income: nonOECD,TFR,Latin America & Caribbean,2010,24,-14.285714
+British Virgin Islands,VIR,High income: nonOECD,TFR,Latin America & Caribbean,2011,22,-8.333333
+British Virgin Islands,VIR,High income: nonOECD,TFR,Latin America & Caribbean,2012,20,-9.090909
+British Virgin Islands,VIR,High income: nonOECD,TFR,Latin America & Caribbean,2013,30,50
+Brunei Darussalam,BRN,High income: nonOECD,TFN,East Asia & Pacific,2004,5000,
+Brunei Darussalam,BRN,High income: nonOECD,TFN,East Asia & Pacific,2007,28252,465.04
+Brunei Darussalam,BRN,High income: nonOECD,TFN,East Asia & Pacific,2008,27652,-2.123743
+Brunei Darussalam,BRN,High income: nonOECD,TFN,East Asia & Pacific,2009,15800,-42.861276
+Brunei Darussalam,BRN,High income: nonOECD,TFN,East Asia & Pacific,2010,24579,55.563291
+Brunei Darussalam,BRN,High income: nonOECD,TFN,East Asia & Pacific,2011,32853,33.662883
+Brunei Darussalam,BRN,High income: nonOECD,TFN,East Asia & Pacific,2012,27490,-16.324232
+Brunei Darussalam,BRN,High income: nonOECD,TFN,East Asia & Pacific,2013,30481,10.88032
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,1995,3267,
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,1996,2544,-22.130395
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,1997,3061,20.322327
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,1998,3141,2.613525
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,1999,3733,18.847501
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2000,3850,3.134208
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2001,3079,-20.025974
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2002,3570,15.946736
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2003,3408,-4.537815
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2004,4125,21.038732
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2005,4108,-0.412121
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2006,4637,12.877313
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2007,5148,11.020056
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2008,6207,20.571096
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2009,6165,-0.676655
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2010,6438,4.428224
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2011,6638,3.106555
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2012,8685,30.837602
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2013,11570,33.218192
+Bulgaria,BGR,Upper middle income,VFR,Europe & Central Asia,2014,15242,31.737252
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,1995,421,
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,1996,444,5.463183
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,1997,468,5.405405
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,1998,511,9.188034
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,1999,714,39.726027
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2000,1249,74.929972
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2001,654,-47.63811
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2002,872,33.333333
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2003,910,4.357798
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2004,1473,61.868132
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2005,1830,24.236253
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2006,1520,-16.939891
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2007,1990,30.921053
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2008,1460,-26.633166
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2009,1591,8.972603
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2010,1898,19.29604
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2011,1587,-16.385669
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2012,2262,42.533081
+Burkina Faso,BFA,Low income,THSN,Sub-Saharan Africa,2013,2492,10.167993
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,1995,22886,
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,1996,22029,-3.744647
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,1997,17282,-21.548867
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,1998,18035,4.357135
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,1999,26805,48.627668
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2000,30586,14.105577
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2001,32002,4.629569
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2002,54045,68.88007
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2003,38664,-28.459617
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2004,46325,19.814298
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2005,59153,27.691311
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2006,80540,36.155394
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2007,118417,47.028806
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2008,129626,9.465702
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2009,128210,-1.092373
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2010,177636,38.550815
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2011,247197,39.159292
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2012,333894,35.072028
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2013,463123,38.703601
+Cambodia,KHM,Low income,TFR,East Asia & Pacific,2014,560335,20.990536
+Canada,CAN,High income: OECD,TFR,North America,1998,51800,
+Canada,CAN,High income: OECD,TFR,North America,1999,59600,15.057915
+Canada,CAN,High income: OECD,TFR,North America,2000,73459,23.253356
+Canada,CAN,High income: OECD,TFR,North America,2001,81293,10.664452
+Canada,CAN,High income: OECD,TFR,North America,2002,96142,18.266025
+Canada,CAN,High income: OECD,TFR,North America,2003,76475,-20.4562
+Canada,CAN,High income: OECD,TFR,North America,2004,101883,33.223929
+Canada,CAN,High income: OECD,TFR,North America,2005,117490,15.318552
+Canada,CAN,High income: OECD,TFR,North America,2006,144601,23.075155
+Canada,CAN,High income: OECD,TFR,North America,2007,152200,5.25515
+Canada,CAN,High income: OECD,TFR,North America,2008,159927,5.076873
+Canada,CAN,High income: OECD,TFR,North America,2009,160833,0.566508
+Canada,CAN,High income: OECD,TFR,North America,2010,194979,21.230718
+Canada,CAN,High income: OECD,TFR,North America,2011,243692,24.983716
+Canada,CAN,High income: OECD,TFR,North America,2012,288279,18.296456
+Canada,CAN,High income: OECD,TFR,North America,2013,352597,22.311025
+Canada,CAN,High income: OECD,TFR,North America,2014,454030,28.767403
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2000,55,
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2001,66,20
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2002,53,-19.69697
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2003,23,-56.603774
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2004,31,34.782609
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2005,40,29.032258
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2006,68,70
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2007,56,-17.647059
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2008,71,26.785714
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2009,51,-28.169014
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2010,47,-7.843137
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2011,119,153.191489
+Cayman Islands,CYM,High income: nonOECD,TFR,Latin America & Caribbean,2012,193,62.184874
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,1998,118,
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2000,257,117.79661
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2001,209,-18.677043
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2002,31,-85.167464
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2003,141,354.83871
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2004,134,-4.964539
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2005,150,11.940299
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2006,173,15.333333
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2007,226,30.635838
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2008,292,29.20354
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2009,1748,498.630137
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2010,1997,14.244851
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2011,2300,15.172759
+Central African Republic,CAF,Low income,TFN,Sub-Saharan Africa,2012,2125,-7.608696
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,1995,46,
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,1996,47,2.173913
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,1997,37,-21.276596
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,1998,44,18.918919
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,1999,34,-22.727273
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2000,40,17.647059
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2001,16,-60
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2002,103,543.75
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2003,96,-6.796117
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2004,128,33.333333
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2005,183,42.96875
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2006,26,-85.79235
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2007,65,150
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2008,77,18.461538
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2009,536,596.103896
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2010,57,-89.365672
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2011,544,854.385965
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2012,535,-1.654412
+Chad,TCD,Low income,THSN,Sub-Saharan Africa,2013,393,-26.542056
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,1995,187,
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,1997,1056,464.705882
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,1998,1684,59.469697
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,1999,1514,-10.095012
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2000,2314,52.840159
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2001,1045,-54.840104
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2002,705,-32.535885
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2003,2857,305.248227
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2004,6356,122.471124
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2005,6397,0.64506
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2006,7707,20.478349
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2007,8516,10.496951
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2008,6303,-25.986379
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2009,6256,-0.745677
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2010,6787,8.487852
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2011,10076,48.460292
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2012,12088,19.968241
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2013,11289,-6.609861
+Chile,CHL,High income: OECD,TFN,Latin America & Caribbean,2014,11018,-2.400567
+Colombia,COL,Upper middle income,TFR,Latin America & Caribbean,2008,3296,
+Colombia,COL,Upper middle income,TFR,Latin America & Caribbean,2009,4264,29.368932
+Colombia,COL,Upper middle income,TFR,Latin America & Caribbean,2010,3378,-20.778612
+Colombia,COL,Upper middle income,TFR,Latin America & Caribbean,2011,4196,24.215512
+Colombia,COL,Upper middle income,TFR,Latin America & Caribbean,2012,5604,33.555767
+Colombia,COL,Upper middle income,TFR,Latin America & Caribbean,2013,6125,9.296931
+Congo,COG,Lower middle income,THSR,Sub-Saharan Africa,2008,349,
+Congo,COG,Lower middle income,THSR,Sub-Saharan Africa,2009,994,184.813754
+Congo,COG,Lower middle income,THSR,Sub-Saharan Africa,2010,1351,35.915493
+Congo,COG,Lower middle income,THSR,Sub-Saharan Africa,2011,2592,91.857883
+Congo,COG,Lower middle income,THSR,Sub-Saharan Africa,2012,3452,33.179012
+Congo,COG,Lower middle income,THSR,Sub-Saharan Africa,2013,5750,66.570104
+Democratic Republic of the Congo,COD,Low income,TFN,Sub-Saharan Africa,2013,4219,-26.626087
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,1995,4565,
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,1996,5025,10.07667
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,1997,4662,-7.223881
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,1998,5116,9.73831
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,1999,5578,9.030493
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2000,5548,-0.537827
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2001,4712,-15.068493
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2002,4937,4.775042
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2003,2249,-54.44602
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2004,1517,-32.547799
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2005,1203,-20.698748
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2006,1545,28.428928
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2007,2157,39.61165
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2008,2992,38.711173
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2009,3346,11.831551
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2010,3588,7.232516
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2011,3589,0.027871
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2012,6573,83.142937
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2013,7791,18.530351
+Costa Rica,CRI,Upper middle income,TFN,Latin America & Caribbean,2014,7395,-5.082788
+Croatia,HRV,High income: nonOECD,TCER,Europe & Central Asia,2007,6381,
+Croatia,HRV,High income: nonOECD,TCER,Europe & Central Asia,2008,6302,-1.23805
+Croatia,HRV,High income: nonOECD,TCER,Europe & Central Asia,2009,7534,19.549349
+Croatia,HRV,High income: nonOECD,TCER,Europe & Central Asia,2010,13195,75.139368
+Croatia,HRV,High income: nonOECD,TCER,Europe & Central Asia,2011,22459,70.208412
+Croatia,HRV,High income: nonOECD,TCER,Europe & Central Asia,2012,43249,92.568681
+Croatia,HRV,High income: nonOECD,TCER,Europe & Central Asia,2013,41973,-2.950357
+Croatia,HRV,High income: nonOECD,TCER,Europe & Central Asia,2014,61215,45.843757
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,1995,1365,
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,1996,1594,16.776557
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,1997,1753,9.974906
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,1998,1922,9.640616
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,1999,3156,64.203954
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2000,4940,56.52725
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2001,6066,22.793522
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2002,4366,-28.025058
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2003,4811,10.192396
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2004,7007,45.645396
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2005,8700,24.161553
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2006,9276,6.62069
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2007,10864,17.119448
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2008,11252,3.571429
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2009,12352,9.77604
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2010,11247,-8.94592
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2011,14749,31.137192
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2012,18836,27.710353
+Cuba,CUB,Upper middle income,VFR,Latin America & Caribbean,2013,22218,17.95498
+Cyprus,CYP,High income: nonOECD,TCER,Europe & Central Asia,2005,679,
+Cyprus,CYP,High income: nonOECD,TCER,Europe & Central Asia,2006,790,16.34757
+Cyprus,CYP,High income: nonOECD,TCER,Europe & Central Asia,2007,776,-1.772152
+Cyprus,CYP,High income: nonOECD,TCER,Europe & Central Asia,2008,1084,39.690722
+Cyprus,CYP,High income: nonOECD,TCER,Europe & Central Asia,2009,1508,39.114391
+Cyprus,CYP,High income: nonOECD,TCER,Europe & Central Asia,2010,1760,16.710875
+Cyprus,CYP,High income: nonOECD,TCER,Europe & Central Asia,2011,1656,-5.909091
+Cyprus,CYP,High income: nonOECD,TCER,Europe & Central Asia,2012,3601,117.451691
+Cyprus,CYP,High income: nonOECD,TCER,Europe & Central Asia,2013,4864,35.073591
+Cyprus,CYP,High income: nonOECD,TCER,Europe & Central Asia,2014,7008,44.078947
+Czech Republic,CZE,High income: OECD,TCEN,Europe & Central Asia,2005,17806,
+Czech Republic,CZE,High income: OECD,TCEN,Europe & Central Asia,2006,29710,66.853869
+Czech Republic,CZE,High income: OECD,TCEN,Europe & Central Asia,2007,38421,29.320094
+Czech Republic,CZE,High income: OECD,TCEN,Europe & Central Asia,2008,53108,38.226491
+Czech Republic,CZE,High income: OECD,TCEN,Europe & Central Asia,2009,61798,16.362883
+Czech Republic,CZE,High income: OECD,TCEN,Europe & Central Asia,2010,79186,28.136833
+Czech Republic,CZE,High income: OECD,TCEN,Europe & Central Asia,2011,108629,37.182078
+Czech Republic,CZE,High income: OECD,TCEN,Europe & Central Asia,2012,152866,40.723011
+Czech Republic,CZE,High income: OECD,TCEN,Europe & Central Asia,2013,174263,13.997226
+Czech Republic,CZE,High income: OECD,TCEN,Europe & Central Asia,2014,211014,21.089388
+Denmark,DNK,High income: OECD,TCER,Europe & Central Asia,2012,30228,
+Denmark,DNK,High income: OECD,TCER,Europe & Central Asia,2013,39638,31.130078
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,1996,120,
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,1997,529,340.833333
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,1998,126,-76.181474
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,1999,24,-80.952381
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2000,107,345.833333
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2001,190,77.570093
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2002,165,-13.157895
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2003,182,10.30303
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2004,149,-18.131868
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2005,307,106.040269
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2006,266,-13.355049
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2007,287,7.894737
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2008,147,-48.780488
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2009,178,21.088435
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2010,227,27.52809
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2011,341,50.220264
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2012,360,5.571848
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2013,286,-20.555556
+Dominica,DMA,Upper middle income,TFR,Latin America & Caribbean,2014,299,4.545455
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2002,336,
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2003,255,-24.107143
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2004,249,-2.352941
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2005,199,-20.080321
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2006,262,31.658291
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2007,534,103.816794
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2008,491,-8.052434
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2009,381,-22.403259
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2010,646,69.553806
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2011,901,39.473684
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2012,963,6.881243
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2013,1205,25.129803
+Dominican Republic,DOM,Upper middle income,TFR,Latin America & Caribbean,2014,1412,17.178423
+Ecuador,ECU,Upper middle income,VFN,Latin America & Caribbean,2004,3710,
+Ecuador,ECU,Upper middle income,VFN,Latin America & Caribbean,2005,3229,-12.96496
+Ecuador,ECU,Upper middle income,VFN,Latin America & Caribbean,2006,3567,10.467637
+Ecuador,ECU,Upper middle income,VFN,Latin America & Caribbean,2007,4855,36.108775
+Ecuador,ECU,Upper middle income,VFN,Latin America & Caribbean,2008,14287,194.273944
+Ecuador,ECU,Upper middle income,VFN,Latin America & Caribbean,2009,7844,-45.096941
+Ecuador,ECU,Upper middle income,VFN,Latin America & Caribbean,2010,6879,-12.302397
+Ecuador,ECU,Upper middle income,VFN,Latin America & Caribbean,2011,9296,35.135921
+Ecuador,ECU,Upper middle income,VFN,Latin America & Caribbean,2012,12245,31.723322
+Ecuador,ECU,Upper middle income,VFN,Latin America & Caribbean,2013,14613,19.338506
+Ecuador,ECU,Upper middle income,VFN,Latin America & Caribbean,2014,17433,19.297885
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,1995,5930,
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,1996,7001,18.060708
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,1997,6932,-0.985573
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,1998,8272,19.330641
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,1999,11189,35.26354
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2000,13779,23.147734
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2001,12962,-5.929313
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2002,21801,68.191637
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2003,21381,-1.926517
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2004,30363,42.009261
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2005,35327,16.348846
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2006,51371,45.415688
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2007,80447,56.600027
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2008,67714,-15.827812
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2009,80933,19.521812
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2010,106227,31.253012
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2011,48620,-54.230092
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2012,61155,25.781571
+Egypt,EGY,Lower middle income,VFN,Middle East & North Africa,2013,55453,-9.323849
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,1995,429,
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,1996,542,26.340326
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,1997,1196,120.664207
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,1998,1893,58.277592
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,1999,472,-75.066033
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2000,744,57.627119
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2001,339,-54.435484
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2002,436,28.613569
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2003,145,-66.743119
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2004,129,-11.034483
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2005,170,31.782946
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2006,621,265.294118
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2007,338,-45.571659
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2008,1714,407.100592
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2009,704,-58.926488
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2010,2276,223.295455
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2011,1527,-32.908612
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2012,1452,-4.911591
+El Salvador,SLV,Lower middle income,TFN,Latin America & Caribbean,2013,2226,53.305785
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,1995,204,
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,1996,203,-0.490196
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,1997,271,33.497537
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,1998,295,8.856089
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,1999,93,-68.474576
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,2000,166,78.494624
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,2001,423,154.819277
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,2002,210,-50.35461
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,2003,279,32.857143
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,2004,340,21.863799
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,2005,245,-27.941176
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,2006,327,33.469388
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,2007,374,14.373089
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,2008,468,25.13369
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,2009,671,43.376068
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,2010,594,-11.47541
+Eritrea,ERI,Low income,VFN,Sub-Saharan Africa,2011,871,46.632997
+Estonia,EST,High income: OECD,TCER,Europe & Central Asia,2005,804,
+Estonia,EST,High income: OECD,TCER,Europe & Central Asia,2006,1152,43.283582
+Estonia,EST,High income: OECD,TCER,Europe & Central Asia,2007,1020,-11.458333
+Estonia,EST,High income: OECD,TCER,Europe & Central Asia,2008,1895,85.784314
+Estonia,EST,High income: OECD,TCER,Europe & Central Asia,2009,2058,8.601583
+Estonia,EST,High income: OECD,TCER,Europe & Central Asia,2010,2823,37.172012
+Estonia,EST,High income: OECD,TCER,Europe & Central Asia,2011,5549,96.563939
+Estonia,EST,High income: OECD,TCER,Europe & Central Asia,2012,5934,6.938187
+Estonia,EST,High income: OECD,TCER,Europe & Central Asia,2013,7806,31.547017
+Estonia,EST,High income: OECD,TCER,Europe & Central Asia,2014,11689,49.743787
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,1998,1178,
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,1999,1382,17.317487
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2000,1495,8.176556
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2001,1751,17.123746
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2002,1978,12.964021
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2003,3318,67.745197
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2004,4172,25.738397
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2005,7649,83.341323
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2007,12325,61.132174
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2008,13791,11.894523
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2009,18968,37.538975
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2010,22722,19.791227
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2011,20197,-11.112578
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2012,35383,75.189385
+Ethiopia,ETH,Low income,TFR,Sub-Saharan Africa,2013,31688,-10.442868
+Fiji,FJI,Upper middle income,TFR,East Asia & Pacific,2009,4087,
+Fiji,FJI,Upper middle income,TFR,East Asia & Pacific,2010,18147,344.017617
+Fiji,FJI,Upper middle income,TFR,East Asia & Pacific,2011,24389,34.39687
+Fiji,FJI,Upper middle income,TFR,East Asia & Pacific,2012,26395,8.225019
+Fiji,FJI,Upper middle income,TFR,East Asia & Pacific,2013,23423,-11.259708
+Fiji,FJI,Upper middle income,TFR,East Asia & Pacific,2014,28333,20.962302
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,1997,10910,
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,1998,10657,-2.318973
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,1999,11385,6.831191
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2000,14110,23.935002
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2001,24992,77.122608
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2002,44577,78.365077
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2003,40755,-8.573928
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2004,49384,21.172862
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2005,37435,-24.196096
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2006,49399,31.959396
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2007,53299,7.894897
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2008,39866,-25.2031
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2009,32603,-18.218532
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2010,39217,20.286477
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2011,50280,28.209705
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2012,59491,18.319411
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2013,79379,33.430267
+Finland,FIN,High income: OECD,TCER,Europe & Central Asia,2014,85389,7.571272
+France,FRA,High income: OECD,TFR,Europe & Central Asia,2004,463000,
+France,FRA,High income: OECD,TFR,Europe & Central Asia,2005,554000,19.654428
+France,FRA,High income: OECD,TFR,Europe & Central Asia,2006,805000,45.306859
+France,FRA,High income: OECD,TFR,Europe & Central Asia,2007,832000,3.354037
+France,FRA,High income: OECD,TFR,Europe & Central Asia,2008,778000,-6.490385
+France,FRA,High income: OECD,TFR,Europe & Central Asia,2009,740000,-4.884319
+France,FRA,High income: OECD,TFR,Europe & Central Asia,2010,909631,22.923108
+France,FRA,High income: OECD,TFR,Europe & Central Asia,2011,1129872,24.212126
+France,FRA,High income: OECD,TFR,Europe & Central Asia,2012,1394165,23.391411
+France,FRA,High income: OECD,TFR,Europe & Central Asia,2013,1720404,23.400315
+French Polynesia,PYF,High income: nonOECD,TFR,East Asia & Pacific,2007,440,
+French Polynesia,PYF,High income: nonOECD,TFR,East Asia & Pacific,2008,388,-11.818182
+French Polynesia,PYF,High income: nonOECD,TFR,East Asia & Pacific,2009,543,39.948454
+French Polynesia,PYF,High income: nonOECD,TFR,East Asia & Pacific,2010,1143,110.497238
+French Polynesia,PYF,High income: nonOECD,TFR,East Asia & Pacific,2011,978,-14.435696
+French Polynesia,PYF,High income: nonOECD,TFR,East Asia & Pacific,2012,1183,20.961145
+French Polynesia,PYF,High income: nonOECD,TFR,East Asia & Pacific,2013,1876,58.579882
+French Polynesia,PYF,High income: nonOECD,TFR,East Asia & Pacific,2014,3268,74.200426
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,1995,1,
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,1996,30,2900
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,1997,89,196.666667
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,1998,239,168.539326
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,1999,550,130.125523
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2000,973,76.909091
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2001,575,-40.904419
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2002,791,37.565217
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2003,955,20.733249
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2004,730,-23.560209
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2005,747,2.328767
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2006,2083,178.848728
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2007,1693,-18.722996
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2008,1771,4.607206
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2009,2013,13.664596
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2010,2725,35.370094
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2011,6522,139.33945
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2012,9995,53.250537
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2013,8830,-11.655828
+Georgia,GEO,Lower middle income,VFR,Europe & Central Asia,2014,8598,-2.627407
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,1995,117069,
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,1996,132950,13.565504
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,1997,142671,7.311771
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,1998,161939,13.505197
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,1999,178107,9.984006
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2000,214688,20.538777
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2001,237183,10.477996
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2002,270459,14.029673
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2003,268057,-0.88812
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2004,387375,44.512175
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2005,418235,7.966441
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2006,441495,5.561467
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2007,462293,4.710812
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2008,421452,-8.83444
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2009,384576,-8.749751
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2010,510611,32.772456
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2011,637362,24.823398
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2012,757290,18.816308
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2013,870748,14.982107
+Germany,DEU,High income: OECD,TCER,Europe & Central Asia,2014,1033470,18.687611
+Greece,GRC,High income: OECD,TCER,Europe & Central Asia,2005,26699,
+Greece,GRC,High income: OECD,TCER,Europe & Central Asia,2006,40489,51.649875
+Greece,GRC,High income: OECD,TCER,Europe & Central Asia,2007,51269,26.624515
+Greece,GRC,High income: OECD,TCER,Europe & Central Asia,2008,49944,-2.584408
+Greece,GRC,High income: OECD,TCER,Europe & Central Asia,2009,48096,-3.700144
+Greece,GRC,High income: OECD,TCER,Europe & Central Asia,2010,59342,23.382402
+Greece,GRC,High income: OECD,TCER,Europe & Central Asia,2011,87390,47.265006
+Greece,GRC,High income: OECD,TCER,Europe & Central Asia,2012,88541,1.317084
+Greece,GRC,High income: OECD,TCER,Europe & Central Asia,2013,135028,52.50336
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,1996,782,
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,1997,996,27.365729
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,1998,1074,7.831325
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,1999,1100,2.420857
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2000,787,-28.454545
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2001,868,10.292249
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2002,1236,42.396313
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2004,914,-26.05178
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2005,840,-8.09628
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2006,1124,33.809524
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2007,1504,33.807829
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2008,1951,29.720745
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2009,3286,68.426448
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2010,4765,45.00913
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2011,7068,48.331584
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2012,8939,26.47142
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2013,11225,25.57333
+Guam,GUM,High income: nonOECD,TFR,East Asia & Pacific,2014,16280,45.033408
+Guatemala,GTM,Lower middle income,VFR,Latin America & Caribbean,2009,594,
+Guatemala,GTM,Lower middle income,VFR,Latin America & Caribbean,2010,809,36.195286
+Guatemala,GTM,Lower middle income,VFR,Latin America & Caribbean,2011,1385,71.199011
+Guatemala,GTM,Lower middle income,VFR,Latin America & Caribbean,2012,1853,33.790614
+Guatemala,GTM,Lower middle income,VFR,Latin America & Caribbean,2013,2687,45.008095
+Guinea,GIN,Low income,TFN,Sub-Saharan Africa,1999,240,
+Guinea,GIN,Low income,TFN,Sub-Saharan Africa,2000,549,128.75
+Guinea,GIN,Low income,TFN,Sub-Saharan Africa,2001,810,47.540984
+Guinea,GIN,Low income,TFN,Sub-Saharan Africa,2003,1041,28.518519
+Guinea,GIN,Low income,TFN,Sub-Saharan Africa,2005,1575,51.29683
+Guinea,GIN,Low income,TFN,Sub-Saharan Africa,2006,1696,7.68254
+Guinea,GIN,Low income,TFN,Sub-Saharan Africa,2007,1874,10.495283
+Guinea,GIN,Low income,TFN,Sub-Saharan Africa,2011,5906,215.154749
+Guinea,GIN,Low income,TFN,Sub-Saharan Africa,2012,2739,-53.623434
+Guinea,GIN,Low income,TFN,Sub-Saharan Africa,2013,4447,62.358525
+Guyana,GUY,Lower middle income,TFR,Latin America & Caribbean,1995,196,
+Guyana,GUY,Lower middle income,TFR,Latin America & Caribbean,1996,215,9.693878
+Guyana,GUY,Lower middle income,TFR,Latin America & Caribbean,1997,151,-29.767442
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,1995,1370,
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,1996,998,-27.153285
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,1997,923,-7.51503
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,1999,135,-85.373781
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2000,1094,710.37037
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2001,1174,7.312614
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2002,892,-24.020443
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2003,1055,18.273543
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2004,1120,6.161137
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2005,1330,18.75
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2006,2313,73.909774
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2007,1137,-50.843061
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2008,1489,30.958663
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2009,1831,22.968435
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2010,2539,38.667395
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2011,2865,12.839701
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2012,5280,84.293194
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2013,4695,-11.079545
+Honduras,HND,Lower middle income,TFN,Latin America & Caribbean,2014,732,-84.408946
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,1995,2243245,
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,1996,2389341,6.512708
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,1997,2364223,-1.051252
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,1998,2671628,13.002369
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,1999,3206452,20.018655
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2000,3785845,18.069598
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2001,4448583,17.505682
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2002,6825199,53.424113
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2003,8467211,24.058082
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2004,12245862,44.626867
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2005,12541400,2.41337
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2006,13591342,8.371809
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2007,15485789,13.938631
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2008,16862003,8.886948
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2009,17956731,6.492277
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2010,22684388,26.328049
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2011,28100129,23.87431
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2012,34911395,24.23927
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2013,40745277,16.710538
+Hong Kong,HKG,High income: nonOECD,VFR,East Asia & Pacific,2014,47247675,15.958655
+Iceland,ISL,High income: OECD,TCEN,Europe & Central Asia,2005,5843,
+Iceland,ISL,High income: OECD,TCEN,Europe & Central Asia,2006,7721,32.141023
+Iceland,ISL,High income: OECD,TCEN,Europe & Central Asia,2007,8537,10.568579
+Iceland,ISL,High income: OECD,TCEN,Europe & Central Asia,2008,5352,-37.308188
+Iceland,ISL,High income: OECD,TCEN,Europe & Central Asia,2009,6458,20.665172
+Iceland,ISL,High income: OECD,TCEN,Europe & Central Asia,2010,4940,-23.505729
+Iceland,ISL,High income: OECD,TCEN,Europe & Central Asia,2011,7836,58.623482
+Iceland,ISL,High income: OECD,TCEN,Europe & Central Asia,2012,13643,74.106687
+Iceland,ISL,High income: OECD,TCEN,Europe & Central Asia,2013,28473,108.700433
+Iceland,ISL,High income: OECD,TCEN,Europe & Central Asia,2014,44899,57.689741
+India,IND,Lower middle income,TFN,South Asia,1995,5111,
+India,IND,Lower middle income,TFN,South Asia,1996,5613,9.821953
+India,IND,Lower middle income,TFN,South Asia,1997,7369,31.284518
+India,IND,Lower middle income,TFN,South Asia,1998,4312,-41.484598
+India,IND,Lower middle income,TFN,South Asia,1999,6487,50.440631
+India,IND,Lower middle income,TFN,South Asia,2000,14420,122.290735
+India,IND,Lower middle income,TFN,South Asia,2001,13901,-3.599168
+India,IND,Lower middle income,TFN,South Asia,2002,15422,10.941659
+India,IND,Lower middle income,TFN,South Asia,2003,21152,37.154714
+India,IND,Lower middle income,TFN,South Asia,2004,34100,61.21407
+India,IND,Lower middle income,TFN,South Asia,2005,44897,31.662757
+India,IND,Lower middle income,TFN,South Asia,2006,62330,38.828875
+India,IND,Lower middle income,TFN,South Asia,2007,88103,41.34927
+India,IND,Lower middle income,TFN,South Asia,2008,98093,11.339001
+India,IND,Lower middle income,TFN,South Asia,2009,100209,2.157137
+India,IND,Lower middle income,TFN,South Asia,2010,119530,19.280703
+India,IND,Lower middle income,TFN,South Asia,2011,142218,18.981009
+India,IND,Lower middle income,TFN,South Asia,2012,168952,18.797902
+India,IND,Lower middle income,TFN,South Asia,2013,174712,3.409252
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,1999,17875,
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2000,16266,-9.001399
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2001,18028,10.832411
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2002,19840,10.051032
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2003,31497,58.75504
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2004,39936,26.793028
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2005,128681,222.218049
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2006,182341,41.700018
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2007,269216,47.644249
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2008,354641,31.731026
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2009,444598,25.365651
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2010,511188,14.977575
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2011,594997,16.394947
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2012,726088,22.032212
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2013,858140,18.186776
+Indonesia,IDN,Lower middle income,TFN,East Asia & Pacific,2014,1052705,22.672874
+Iran,IRN,Upper middle income,VFN,Middle East & North Africa,1995,2395,
+Iran,IRN,Upper middle income,VFN,Middle East & North Africa,1996,2497,4.258873
+Iran,IRN,Upper middle income,VFN,Middle East & North Africa,1997,1409,-43.572287
+Iran,IRN,Upper middle income,VFN,Middle East & North Africa,1998,2570,82.398864
+Iran,IRN,Upper middle income,VFN,Middle East & North Africa,1999,3004,16.88716
+Iran,IRN,Upper middle income,VFN,Middle East & North Africa,2009,4378,45.739015
+Iran,IRN,Upper middle income,VFN,Middle East & North Africa,2010,7648,74.69164
+Iran,IRN,Upper middle income,VFN,Middle East & North Africa,2011,22728,197.175732
+Iran,IRN,Upper middle income,VFN,Middle East & North Africa,2012,26160,15.100317
+Iran,IRN,Upper middle income,VFN,Middle East & North Africa,2013,34795,33.00841
+Iran,IRN,Upper middle income,VFN,Middle East & North Africa,2014,46697,34.206064
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,1995,4310,
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,1996,3743,-13.155452
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,1997,4408,17.766497
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,1998,5158,17.014519
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,1999,6834,32.493214
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2000,9848,44.103014
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2001,6277,-36.26117
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2002,2605,-58.499283
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2003,1935,-25.71977
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2004,2960,52.971576
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2005,4046,36.689189
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2006,10818,167.375185
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2007,7596,-29.783694
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2008,8923,17.469721
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2009,7570,-15.163062
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2010,12890,70.277411
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2011,16806,30.38014
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2012,19276,14.697132
+Israel,ISR,High income: OECD,TFR,Middle East & North Africa,2013,24942,29.394065
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,1996,43962,
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,1997,68827,56.560211
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,1998,103966,51.054092
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,1999,110760,6.534829
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2000,109416,-1.213434
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2001,89706,-18.013819
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2002,162318,80.944418
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2003,125696,-22.561885
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2004,105047,-16.42773
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2005,100607,-4.226679
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2006,124781,24.028149
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2007,167987,34.625464
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2008,163796,-2.494836
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2009,145995,-10.867787
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2010,145991,-0.00274
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2011,223815,53.307396
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2012,251699,12.458504
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2013,297513,18.2019
+Italy,ITA,High income: OECD,VFN,Europe & Central Asia,2014,310064,4.218639
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,1996,239,
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,1997,742,210.460251
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,1998,795,7.142857
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,1999,450,-43.396226
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2000,530,17.777778
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2001,444,-16.226415
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2002,542,22.072072
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2003,585,7.933579
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2004,532,-9.059829
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2005,750,40.977444
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2006,976,30.133333
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2007,1077,10.348361
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2008,935,-13.184773
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2009,1142,22.139037
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2010,1302,14.010508
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2011,1703,30.798771
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2012,2102,23.429243
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2013,2420,15.128449
+Jamaica,JAM,Upper middle income,TFR,Latin America & Caribbean,2014,2645,9.297521
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,1995,220715,
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,1996,241525,9.428448
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,1997,260627,7.908912
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,1998,267180,2.514321
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,1999,294937,10.388876
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2000,351788,19.275642
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2001,391384,11.255643
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2002,452420,15.594914
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2003,448782,-0.80412
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2004,616009,37.262412
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2005,652820,5.975724
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2006,811675,24.33366
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2007,942439,16.110389
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2008,1000416,6.151804
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2009,1006085,0.566664
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2010,1412875,40.432965
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2011,1043246,-26.161479
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2012,1425100,36.602489
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2013,1314437,-7.76528
+Japan,JPN,High income: OECD,VFN,East Asia & Pacific,2014,2409158,83.284402
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,1995,1620,
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,1996,1737,7.222222
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,1997,2263,30.282096
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,1998,3503,54.794521
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,1999,3699,5.595204
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2000,3641,-1.567991
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2001,4707,29.277671
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2002,6975,48.183556
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2003,5399,-22.594982
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2004,7643,41.563252
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2005,7202,-5.769986
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2006,7990,10.941405
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2007,12428,55.544431
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2008,14437,16.165111
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2009,13979,-3.172404
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2010,13976,-0.021461
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2011,12208,-12.650258
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2012,12491,2.318152
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2013,15689,25.602434
+Jordan,JOR,Upper middle income,VFN,Middle East & North Africa,2014,19968,27.273886
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2000,42654,
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2001,41116,-3.605758
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2002,48306,17.48711
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2003,55482,14.855297
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2004,76806,38.434087
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2005,85696,11.574617
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2006,117279,36.854696
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2007,171753,46.448213
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2008,154220,-10.208264
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2009,134251,-12.948385
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2010,108630,-19.084402
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2011,128312,18.118384
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2012,154226,20.196085
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2013,205066,32.96461
+Kazakhstan,KAZ,Upper middle income,VFR,Europe & Central Asia,2014,228617,11.484595
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,1995,178359,
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,1996,199604,11.91137
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,1997,214244,7.334522
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,1998,210662,-1.671925
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,1999,316639,50.306652
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2000,442794,39.841902
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2001,482227,8.905496
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2002,539466,11.869721
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2003,513236,-4.862216
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2004,627264,22.217459
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2005,709836,13.163835
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2006,896969,26.36285
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2007,1068925,19.170785
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2008,1167891,9.258461
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2009,1342317,14.935127
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2010,1875157,39.695541
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2011,2220196,18.400539
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2012,2836892,27.776647
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2013,4326869,52.521457
+South Korea,KOR,High income: OECD,VFN,East Asia & Pacific,2014,6126865,41.600427
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,1995,2642,
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,1996,3730,41.180924
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,1997,5072,35.978552
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,1998,5776,13.880126
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,1999,4077,-29.41482
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2000,3435,-15.746873
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2001,2525,-26.491994
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2002,3879,53.623762
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2003,2819,-27.326631
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2004,6558,132.635686
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2005,5926,-9.637084
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2006,7529,27.050287
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2007,7586,0.757073
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2008,9546,25.837068
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2009,8207,-14.026818
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2010,10925,33.11807
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2011,14208,30.050343
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2012,13283,-6.510417
+Kuwait,KWT,High income: nonOECD,VFN,Middle East & North Africa,2013,15428,16.14846
+Kyrgyzstan,KGZ,Lower middle income,VFR,Europe & Central Asia,2008,22487,
+Kyrgyzstan,KGZ,Lower middle income,VFR,Europe & Central Asia,2009,22919,1.92111
+Kyrgyzstan,KGZ,Lower middle income,VFR,Europe & Central Asia,2010,18384,-19.787076
+Kyrgyzstan,KGZ,Lower middle income,VFR,Europe & Central Asia,2011,25315,37.701262
+Kyrgyzstan,KGZ,Lower middle income,VFR,Europe & Central Asia,2012,24115,-4.740273
+Kyrgyzstan,KGZ,Lower middle income,VFR,Europe & Central Asia,2013,30056,24.636119
+Kyrgyzstan,KGZ,Lower middle income,VFR,Europe & Central Asia,2014,29853,-0.675406
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,1995,4076,
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,1996,16707,309.887144
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,1997,17661,5.710181
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,1998,15802,-10.526018
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,1999,20269,28.268574
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2000,28215,39.202723
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2001,40644,44.051037
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2002,21724,-46.550536
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2003,21232,-2.264776
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2004,33019,55.51526
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2005,39210,18.749811
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2006,50317,28.326957
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2007,54920,9.148002
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2008,105852,92.738529
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2009,128226,21.137059
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2010,161854,26.22557
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2011,150791,-6.835172
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2012,199857,32.539077
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2013,245033,22.604162
+Lao People's Democratic Republic,LAO,Lower middle income,VFN,East Asia & Pacific,2014,422440,72.401268
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,1995,160,
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,1996,288,80
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,1997,579,101.041667
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,1998,468,-19.170984
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,1999,245,-47.649573
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2000,325,32.653061
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2001,273,-16
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2002,244,-10.622711
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2003,203,-16.803279
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2004,389,91.625616
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2005,359,-7.712082
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2006,457,27.29805
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2007,382,-16.411379
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2008,936,145.026178
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2009,1593,70.192308
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2010,1963,23.226616
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2011,2893,47.376465
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2012,3666,26.719668
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2013,6319,72.367703
+Latvia,LVA,High income: nonOECD,TCER,Europe & Central Asia,2014,12584,99.145434
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,1995,1019,
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,1996,902,-11.481845
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,1997,808,-10.421286
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,1998,889,10.024752
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,1999,1313,47.694038
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2000,1638,24.752475
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2001,1591,-2.869353
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2002,1463,-8.045255
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2003,950,-35.064935
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2004,1559,64.105263
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2005,1642,5.323926
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2006,1734,5.602923
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2007,2028,16.955017
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2008,2472,21.893491
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2009,3895,57.564725
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2010,5938,52.451861
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2011,4862,-18.120579
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2012,3564,-26.696833
+Lebanon,LBN,Upper middle income,TFN,Middle East & North Africa,2013,3793,6.425365
+Lesotho,LSO,Lower middle income,VFR,Sub-Saharan Africa,2006,1222,
+Lesotho,LSO,Lower middle income,VFR,Sub-Saharan Africa,2007,1894,54.991817
+Lesotho,LSO,Lower middle income,VFR,Sub-Saharan Africa,2008,1136,-40.021119
+Lesotho,LSO,Lower middle income,VFR,Sub-Saharan Africa,2009,2233,96.566901
+Lesotho,LSO,Lower middle income,VFR,Sub-Saharan Africa,2010,1596,-28.526646
+Lesotho,LSO,Lower middle income,VFR,Sub-Saharan Africa,2011,724,-54.636591
+Lesotho,LSO,Lower middle income,VFR,Sub-Saharan Africa,2012,998,37.845304
+Lesotho,LSO,Lower middle income,VFR,Sub-Saharan Africa,2013,1360,36.272545
+Lesotho,LSO,Lower middle income,VFR,Sub-Saharan Africa,2014,9630,608.088235
+Liechtenstein,LIE,High income: nonOECD,THSR,Europe & Central Asia,2005,156,
+Liechtenstein,LIE,High income: nonOECD,THSR,Europe & Central Asia,2006,210,34.615385
+Liechtenstein,LIE,High income: nonOECD,THSR,Europe & Central Asia,2007,252,20
+Liechtenstein,LIE,High income: nonOECD,THSR,Europe & Central Asia,2008,171,-32.142857
+Liechtenstein,LIE,High income: nonOECD,THSR,Europe & Central Asia,2009,147,-14.035088
+Liechtenstein,LIE,High income: nonOECD,THSR,Europe & Central Asia,2010,272,85.034014
+Liechtenstein,LIE,High income: nonOECD,THSR,Europe & Central Asia,2011,399,46.691176
+Liechtenstein,LIE,High income: nonOECD,THSR,Europe & Central Asia,2012,498,24.81203
+Liechtenstein,LIE,High income: nonOECD,THSR,Europe & Central Asia,2013,730,46.586345
+Liechtenstein,LIE,High income: nonOECD,THSR,Europe & Central Asia,2014,1042,42.739726
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2001,432,
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2002,971,124.768519
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2003,594,-38.825953
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2004,1186,99.6633
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2005,983,-17.116358
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2006,1197,21.770092
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2007,955,-20.21721
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2008,1898,98.743456
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2009,2515,32.507903
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2010,3309,31.570577
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2011,5522,66.878211
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2012,6124,10.901847
+Lithuania,LTU,High income: nonOECD,TCER,Europe & Central Asia,2013,5591,-8.703462
+Luxembourg,LUX,High income: OECD,TCER,Europe & Central Asia,2008,12329,
+Luxembourg,LUX,High income: OECD,TCER,Europe & Central Asia,2009,14271,15.75148
+Luxembourg,LUX,High income: OECD,TCER,Europe & Central Asia,2010,15933,11.645995
+Luxembourg,LUX,High income: OECD,TCER,Europe & Central Asia,2011,26544,66.597628
+Luxembourg,LUX,High income: OECD,TCER,Europe & Central Asia,2012,42286,59.305304
+Luxembourg,LUX,High income: OECD,TCER,Europe & Central Asia,2013,33335,-21.167762
+Luxembourg,LUX,High income: OECD,TCER,Europe & Central Asia,2014,36845,10.529474
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,1995,543240,
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,1996,604227,11.22653
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,1997,527927,-12.627704
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,1998,1317538,149.568217
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,1999,1630643,23.7644
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2000,2285471,40.157656
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2001,2981409,30.450529
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2002,4183725,40.327107
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2003,5681102,35.790522
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2004,9518336,67.543832
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2005,10462787,9.922438
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2006,11985655,14.555089
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2007,14873576,24.094812
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2008,11613064,-21.921507
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2009,10988796,-5.375567
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2010,13228418,20.380959
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2011,16161927,22.175811
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2012,16900964,4.572703
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2013,18631640,10.240102
+Macao,MAC,High income: nonOECD,VFN,East Asia & Pacific,2014,21252070,14.064409
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,1995,103130,
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,1996,135743,31.623194
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,1997,158679,16.896636
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,1998,159852,0.739228
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,1999,190851,19.392313
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2000,425246,122.815704
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2001,453246,6.584424
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2002,557647,23.03407
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2003,350597,-37.129223
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2004,550241,56.944013
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2005,352089,-36.011857
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2006,439294,24.767885
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2007,689293,56.909268
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2008,943787,36.921019
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2009,1015550,7.603728
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2010,1130261,11.295456
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2011,1245475,10.193575
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2012,1557960,25.089624
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2013,1790079,14.898906
+Malaysia,MYS,Upper middle income,TFR,East Asia & Pacific,2014,1612523,-9.918892
+Maldives,MDV,Upper middle income,TFN,South Asia,1995,8457,
+Maldives,MDV,Upper middle income,TFN,South Asia,1996,4127,-51.200189
+Maldives,MDV,Upper middle income,TFN,South Asia,1997,2686,-34.916404
+Maldives,MDV,Upper middle income,TFN,South Asia,1998,3067,14.184661
+Maldives,MDV,Upper middle income,TFN,South Asia,1999,3973,29.540267
+Maldives,MDV,Upper middle income,TFN,South Asia,2000,5380,35.414045
+Maldives,MDV,Upper middle income,TFN,South Asia,2001,7342,36.468401
+Maldives,MDV,Upper middle income,TFN,South Asia,2002,12092,64.696268
+Maldives,MDV,Upper middle income,TFN,South Asia,2003,15021,24.222627
+Maldives,MDV,Upper middle income,TFN,South Asia,2004,20599,37.134678
+Maldives,MDV,Upper middle income,TFN,South Asia,2005,11609,-43.642895
+Maldives,MDV,Upper middle income,TFN,South Asia,2006,26396,127.375312
+Maldives,MDV,Upper middle income,TFN,South Asia,2007,35976,36.293378
+Maldives,MDV,Upper middle income,TFN,South Asia,2008,41511,15.385257
+Maldives,MDV,Upper middle income,TFN,South Asia,2009,60666,46.144395
+Maldives,MDV,Upper middle income,TFN,South Asia,2010,118961,96.091715
+Maldives,MDV,Upper middle income,TFN,South Asia,2011,198655,66.991703
+Maldives,MDV,Upper middle income,TFN,South Asia,2012,229551,15.552591
+Maldives,MDV,Upper middle income,TFN,South Asia,2013,331719,44.507756
+Maldives,MDV,Upper middle income,TFN,South Asia,2014,363626,9.618683
+Mali,MLI,Low income,TFR,Sub-Saharan Africa,2012,2659,
+Mali,MLI,Low income,TFR,Sub-Saharan Africa,2013,2612,-1.767582
+Mali,MLI,Low income,TFR,Sub-Saharan Africa,2014,3281,25.612557
+Malta,MLT,High income: nonOECD,TFN,Middle East & North Africa,1996,320,
+Malta,MLT,High income: nonOECD,TFN,Middle East & North Africa,1997,489,52.8125
+Malta,MLT,High income: nonOECD,TFN,Middle East & North Africa,1998,522,6.748466
+Malta,MLT,High income: nonOECD,TFN,Middle East & North Africa,1999,699,33.908046
+Malta,MLT,High income: nonOECD,TFN,Middle East & North Africa,2000,882,26.180258
+Malta,MLT,High income: nonOECD,TFN,Middle East & North Africa,2001,995,12.811791
+Malta,MLT,High income: nonOECD,TFN,Middle East & North Africa,2002,1446,45.326633
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2000,83,
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2001,80,-3.614458
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2002,159,98.75
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2003,57,-64.150943
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2004,87,52.631579
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2005,113,29.885057
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2006,58,-48.672566
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2007,157,170.689655
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2008,61,-61.146497
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2009,89,45.901639
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2010,79,-11.235955
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2011,83,5.063291
+Marshall Islands,MHL,Upper middle income,TFR,East Asia & Pacific,2012,87,4.819277
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,1995,1918,
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,1996,1953,1.824818
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,1997,2111,8.090118
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,1998,2366,12.079583
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,1999,2189,-7.480981
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2000,2459,12.334399
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2001,3615,47.01098
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2002,4248,17.510373
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2003,3738,-12.00565
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2004,5291,41.546281
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2005,5526,4.441504
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2006,4875,-11.780673
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2007,7739,58.748718
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2008,8425,8.864194
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2009,6925,-17.804154
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2010,7609,9.877256
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2011,15133,98.882902
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2012,20885,38.009648
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2013,41913,100.684702
+Mauritius,MUS,Upper middle income,TFR,Sub-Saharan Africa,2014,63365,51.182211
+Micronesia,FSM,Lower middle income,TFR,East Asia & Pacific,2007,451,
+Micronesia,FSM,Lower middle income,TFR,East Asia & Pacific,2008,1967,336.141907
+Micronesia,FSM,Lower middle income,TFR,East Asia & Pacific,2009,12712,546.263345
+Micronesia,FSM,Lower middle income,TFR,East Asia & Pacific,2010,9387,-26.156388
+Micronesia,FSM,Lower middle income,TFR,East Asia & Pacific,2011,4692,-50.01598
+Micronesia,FSM,Lower middle income,TFR,East Asia & Pacific,2012,4652,-0.852515
+Micronesia,FSM,Lower middle income,TFR,East Asia & Pacific,2013,4531,-2.601032
+Micronesia,FSM,Lower middle income,TFR,East Asia & Pacific,2014,2739,-39.549768
+Moldova,MDA,Lower middle income,TCEN,Europe & Central Asia,2004,266,
+Moldova,MDA,Lower middle income,TCEN,Europe & Central Asia,2005,212,-20.300752
+Moldova,MDA,Lower middle income,TCEN,Europe & Central Asia,2006,368,73.584906
+Moldova,MDA,Lower middle income,TCEN,Europe & Central Asia,2007,211,-42.663043
+Moldova,MDA,Lower middle income,TCEN,Europe & Central Asia,2008,143,-32.227488
+Moldova,MDA,Lower middle income,TCEN,Europe & Central Asia,2009,144,0.699301
+Moldova,MDA,Lower middle income,TCEN,Europe & Central Asia,2010,188,30.555556
+Moldova,MDA,Lower middle income,TCEN,Europe & Central Asia,2011,518,175.531915
+Moldova,MDA,Lower middle income,TCEN,Europe & Central Asia,2012,555,7.142857
+Moldova,MDA,Lower middle income,TCEN,Europe & Central Asia,2013,315,-43.243243
+Moldova,MDA,Lower middle income,TCEN,Europe & Central Asia,2014,398,26.349206
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,1999,1189,
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2000,1651,38.856182
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2001,1309,-20.714718
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2002,1698,29.717341
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2003,1306,-23.085984
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2004,1419,8.652374
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2005,1466,3.312192
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2006,1618,10.368349
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2007,2457,51.854141
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2008,2254,-8.262108
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2009,1796,-20.319432
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2010,2888,60.801782
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2011,4311,49.272853
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2012,3770,-12.549293
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2013,3661,-2.891247
+Monaco,MCO,High income: nonOECD,THSN,Europe & Central Asia,2014,4128,12.756078
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,1995,47721,
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,1996,30478,-36.132939
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,1997,32531,6.736006
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,1998,92789,185.232547
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,1999,58346,-37.119702
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2000,57546,-1.371131
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2001,67360,17.054183
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2002,92657,37.554929
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2003,91934,-0.780297
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2004,141473,53.885396
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2005,171444,21.184961
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2006,180209,5.112457
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2007,212158,17.728859
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2008,217127,2.342122
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2009,232038,6.867409
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2010,290061,25.005818
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2011,346984,19.624493
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2012,361506,4.185207
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2013,261468,-27.67257
+Mongolia,MNG,Upper middle income,VFN,East Asia & Pacific,2014,258414,-1.168021
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,1995,1548,
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,1996,1444,-6.718346
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,1997,1372,-4.98615
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,1998,1684,22.740525
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,1999,2124,26.128266
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2000,1972,-7.156309
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2001,2595,31.592292
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2002,2986,15.067437
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2003,2579,-13.630275
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2004,2747,6.514153
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2005,3513,27.884965
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2006,4028,14.659835
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2007,4374,8.589871
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2008,4665,6.652949
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2009,4129,-11.489818
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2010,5769,39.71906
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2011,5882,1.958745
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2012,6899,17.290037
+Morocco,MAR,Lower middle income,TFN,Middle East & North Africa,2013,7871,14.088998
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,1999,12148,
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2000,14336,18.011195
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2001,16788,17.103795
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2002,17732,5.623064
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2003,15564,-12.226483
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2004,17890,14.944744
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2005,19596,9.536054
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2006,24893,27.031027
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2007,29551,18.712088
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2008,30792,4.199519
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2009,101932,231.034035
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2010,113672,11.517482
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2011,120953,6.405271
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2012,128804,6.490951
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2013,187770,45.779634
+Myanmar,MMR,Lower middle income,TFN,East Asia & Pacific,2014,809399,331.058742
+Namibia,NAM,Upper middle income,TFN,Sub-Saharan Africa,2008,3661,
+Namibia,NAM,Upper middle income,TFN,Sub-Saharan Africa,2009,5119,39.825184
+Namibia,NAM,Upper middle income,TFN,Sub-Saharan Africa,2010,4228,-17.405743
+Namibia,NAM,Upper middle income,TFN,Sub-Saharan Africa,2011,4035,-4.564806
+Namibia,NAM,Upper middle income,TFN,Sub-Saharan Africa,2012,5830,44.48575
+Namibia,NAM,Upper middle income,TFN,Sub-Saharan Africa,2013,9910,69.982847
+Nepal,NPL,Low income,TFN,South Asia,1999,5638,
+Nepal,NPL,Low income,TFN,South Asia,2000,7139,26.622916
+Nepal,NPL,Low income,TFN,South Asia,2001,8738,22.398095
+Nepal,NPL,Low income,TFN,South Asia,2002,8715,-0.263218
+Nepal,NPL,Low income,TFN,South Asia,2003,7562,-13.230063
+Nepal,NPL,Low income,TFN,South Asia,2004,13326,76.223221
+Nepal,NPL,Low income,TFN,South Asia,2005,21170,58.862374
+Nepal,NPL,Low income,TFN,South Asia,2006,16800,-20.642419
+Nepal,NPL,Low income,TFN,South Asia,2007,27339,62.732143
+Nepal,NPL,Low income,TFN,South Asia,2008,35166,28.62943
+Nepal,NPL,Low income,TFN,South Asia,2009,32272,-8.22954
+Nepal,NPL,Low income,TFN,South Asia,2010,46360,43.653942
+Nepal,NPL,Low income,TFN,South Asia,2011,61917,33.556946
+Nepal,NPL,Low income,TFN,South Asia,2012,71861,16.06021
+Nepal,NPL,Low income,TFN,South Asia,2013,113179,57.497112
+Nepal,NPL,Low income,TFN,South Asia,2014,123805,9.388668
+Netherlands,NLD,High income: OECD,THSR,Europe & Central Asia,2004,81700,
+Netherlands,NLD,High income: OECD,THSR,Europe & Central Asia,2005,96300,17.870257
+Netherlands,NLD,High income: OECD,THSR,Europe & Central Asia,2006,95300,-1.038422
+Netherlands,NLD,High income: OECD,THSR,Europe & Central Asia,2007,108100,13.43127
+Netherlands,NLD,High income: OECD,THSR,Europe & Central Asia,2008,112800,4.347826
+Netherlands,NLD,High income: OECD,THSR,Europe & Central Asia,2009,122500,8.599291
+Netherlands,NLD,High income: OECD,THSR,Europe & Central Asia,2010,124300,1.469388
+Netherlands,NLD,High income: OECD,THSR,Europe & Central Asia,2011,155700,25.261464
+Netherlands,NLD,High income: OECD,THSR,Europe & Central Asia,2012,172800,10.982659
+Netherlands,NLD,High income: OECD,THSR,Europe & Central Asia,2013,192000,11.111111
+Netherlands,NLD,High income: OECD,THSR,Europe & Central Asia,2014,209000,8.854167
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,1995,17,
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,1996,10,-41.176471
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,1997,33,230
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,1998,18,-45.454545
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,1999,35,94.444444
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2000,17,-51.428571
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2001,73,329.411765
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2002,42,-42.465753
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2003,8,-80.952381
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2004,24,200
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2005,124,416.666667
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2006,136,9.677419
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2007,177,30.147059
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2008,206,16.384181
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2009,166,-19.417476
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2010,499,200.60241
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2011,649,30.06012
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2012,774,19.260401
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2013,401,-48.191214
+New Caledonia,NCL,High income: nonOECD,TFR,East Asia & Pacific,2014,279,-30.42394
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,1995,8918,
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,1996,13646,53.016371
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,1997,17551,28.616444
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,1998,16410,-6.501054
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,1999,23241,41.627057
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2000,33502,44.150424
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2001,53174,58.718882
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2002,76534,43.931245
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2003,65989,-13.77819
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2004,84368,27.851612
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2005,87850,4.127157
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2006,105716,20.336938
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2007,120804,14.272201
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2008,112398,-6.958379
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2009,102259,-9.020623
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2010,122712,20.001173
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2011,145524,18.589869
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2012,197024,35.389352
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2013,228928,16.192951
+New Zealand,NZL,High income: OECD,VFR,East Asia & Pacific,2014,264864,15.697512
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,1995,1020,
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,1996,1303,27.745098
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,1997,944,-27.551804
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,1998,1183,25.317797
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,1999,981,-17.075232
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2000,1805,83.995923
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2001,916,-49.252078
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2002,716,-21.834061
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2003,1418,98.044693
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2004,438,-69.111425
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2005,522,19.178082
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2006,592,13.409962
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2007,392,-33.783784
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2008,220,-43.877551
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2009,641,191.363636
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2010,404,-36.973479
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2011,303,-25
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2012,354,16.831683
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2013,481,35.875706
+Nicaragua,NIC,Lower middle income,TFN,Latin America & Caribbean,2014,1001,108.108108
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,1995,11835,
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,1996,13715,15.885087
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,1997,14401,5.001823
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,1998,15121,4.999653
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,1999,15877,4.999669
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2000,16633,4.761605
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2001,19544,17.501353
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2002,22964,17.498977
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2003,26983,17.501306
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2004,31705,17.499907
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2005,33290,4.999211
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2006,38254,14.911385
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2007,65679,71.691849
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2008,72984,11.122277
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2009,75904,4.000877
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2010,76143,0.314871
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2011,241280,216.877454
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2012,227694,-5.630802
+Nigeria,NGA,Lower middle income,VFN,Sub-Saharan Africa,2013,113779,-50.029865
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,1995,2633,
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,1996,2479,-5.848842
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,1997,2731,10.165389
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,1998,2815,3.075796
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,1999,1828,-35.062167
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2000,1698,-7.111597
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2001,2101,23.733804
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2002,10470,398.334127
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2003,15213,45.30086
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2004,32463,113.389864
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2005,32920,1.407757
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2006,37994,15.413123
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2007,39447,3.824288
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2008,26407,-33.057013
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2009,29528,11.818836
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2010,41623,40.961122
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2011,54186,30.182832
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2012,85966,58.649836
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2013,116967,36.061931
+Northern Mariana Islands,MNP,High income: nonOECD,VFN,East Asia & Pacific,2014,170121,45.443587
+Pakistan,PAK,Lower middle income,TFN,South Asia,1995,9105,
+Pakistan,PAK,Lower middle income,TFN,South Asia,1996,9104,-0.010983
+Pakistan,PAK,Lower middle income,TFN,South Asia,1997,9019,-0.933656
+Pakistan,PAK,Lower middle income,TFN,South Asia,1998,10747,19.159552
+Pakistan,PAK,Lower middle income,TFN,South Asia,1999,7957,-25.960733
+Pakistan,PAK,Lower middle income,TFN,South Asia,2000,6191,-22.194294
+Pakistan,PAK,Lower middle income,TFN,South Asia,2001,5704,-7.866257
+Pakistan,PAK,Lower middle income,TFN,South Asia,2002,8896,55.960729
+Pakistan,PAK,Lower middle income,TFN,South Asia,2003,10324,16.052158
+Pakistan,PAK,Lower middle income,TFN,South Asia,2004,17176,66.369624
+Pakistan,PAK,Lower middle income,TFN,South Asia,2005,29601,72.339311
+Pakistan,PAK,Lower middle income,TFN,South Asia,2006,37137,25.458599
+Pakistan,PAK,Lower middle income,TFN,South Asia,2007,30406,-18.124781
+Pakistan,PAK,Lower middle income,TFN,South Asia,2008,30078,-1.078734
+Pakistan,PAK,Lower middle income,TFN,South Asia,2009,29996,-0.272625
+Pakistan,PAK,Lower middle income,TFN,South Asia,2010,27887,-7.030937
+Pakistan,PAK,Lower middle income,TFN,South Asia,2011,42708,53.146627
+Pakistan,PAK,Lower middle income,TFN,South Asia,2012,39017,-8.642409
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,1998,907,
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,1999,868,-4.29989
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2000,889,2.419355
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2001,867,-2.474691
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2002,873,0.692042
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2003,250,-71.363116
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2004,333,33.2
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2005,336,0.900901
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2006,386,14.880952
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2007,464,20.207254
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2008,439,-5.387931
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2009,534,21.640091
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2010,725,35.76779
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2011,1699,134.344828
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2012,4471,163.154797
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2013,8804,96.913442
+Palau,PLW,Upper middle income,TFR,East Asia & Pacific,2014,39383,347.330759
+Panama,PAN,Upper middle income,VFR,Latin America & Caribbean,2011,6661,
+Panama,PAN,Upper middle income,VFR,Latin America & Caribbean,2012,7714,15.808437
+Panama,PAN,Upper middle income,VFR,Latin America & Caribbean,2013,6905,-10.487425
+Panama,PAN,Upper middle income,VFR,Latin America & Caribbean,2014,9325,35.047067
+Papua New Guinea,PNG,Lower middle income,VFR,East Asia & Pacific,2009,6492,
+Papua New Guinea,PNG,Lower middle income,VFR,East Asia & Pacific,2010,7435,14.52557
+Papua New Guinea,PNG,Lower middle income,VFR,East Asia & Pacific,2011,7063,-5.003362
+Papua New Guinea,PNG,Lower middle income,VFR,East Asia & Pacific,2012,7736,9.528529
+Papua New Guinea,PNG,Lower middle income,VFR,East Asia & Pacific,2013,7866,1.680455
+Paraguay,PRY,Upper middle income,TFN,Latin America & Caribbean,2004,550,
+Paraguay,PRY,Upper middle income,TFN,Latin America & Caribbean,2005,598,8.727273
+Paraguay,PRY,Upper middle income,TFN,Latin America & Caribbean,2006,413,-30.936455
+Paraguay,PRY,Upper middle income,TFN,Latin America & Caribbean,2007,172,-58.353511
+Paraguay,PRY,Upper middle income,TFN,Latin America & Caribbean,2008,146,-15.116279
+Paraguay,PRY,Upper middle income,TFN,Latin America & Caribbean,2009,218,49.315068
+Paraguay,PRY,Upper middle income,TFN,Latin America & Caribbean,2010,193,-11.46789
+Paraguay,PRY,Upper middle income,TFN,Latin America & Caribbean,2011,363,88.082902
+Paraguay,PRY,Upper middle income,TFN,Latin America & Caribbean,2012,741,104.132231
+Paraguay,PRY,Upper middle income,TFN,Latin America & Caribbean,2013,813,9.716599
+Paraguay,PRY,Upper middle income,TFN,Latin America & Caribbean,2014,922,13.407134
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,1995,3241,
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,1996,3493,7.775378
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,1997,3298,-5.582594
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,1998,2128,-35.476046
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,1999,2280,7.142857
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2000,3854,69.035088
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2001,2786,-27.711469
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2002,4042,45.082556
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2003,4316,6.778822
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2004,4968,15.10658
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2005,5279,6.260064
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2006,7839,48.494033
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2007,7465,-4.771017
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2008,8043,7.7428
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2009,9257,15.09387
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2010,9484,2.452198
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2011,11896,25.432307
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2012,12180,2.387357
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2013,12864,5.615764
+Peru,PER,Upper middle income,TFR,Latin America & Caribbean,2014,16607,29.096704
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,1995,8606,
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,1996,15757,83.093191
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,1997,19093,21.171543
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,1998,24252,27.020374
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,1999,21220,-12.502062
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2000,14724,-30.61263
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2001,18937,28.613149
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2002,27803,46.818398
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2003,32039,15.235766
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2004,39581,23.540061
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2005,107456,171.483793
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2006,133585,24.315999
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2007,157601,17.978066
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2008,163689,3.86292
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2009,155019,-5.29663
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2010,187446,20.918081
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2011,243137,29.710423
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2012,250883,3.185858
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2013,426352,69.94057
+Philippines,PHL,Lower middle income,TFR,East Asia & Pacific,2014,394951,-7.365041
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,1995,5084,
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,1996,5754,13.1786
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,1997,6504,13.034411
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,1998,5857,-9.947724
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,1999,5432,-7.256275
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2000,4953,-8.818115
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2001,4965,0.242277
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2002,6445,29.808661
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2003,5077,-21.225756
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2004,7660,50.876502
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2005,11345,48.10705
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2006,15133,33.389158
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2007,18313,21.013679
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2008,20000,9.212035
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2009,25000,25
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2010,35000,40
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2011,40000,14.285714
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2012,40000,0
+Poland,POL,High income: OECD,VFN,Europe & Central Asia,2013,45000,12.5
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,1999,7609,
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2000,8330,9.475621
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2001,9963,19.603842
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2004,16120,61.798655
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2005,16971,5.279156
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2006,22102,30.233928
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2007,23529,6.456429
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2008,23152,-1.602278
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2009,21929,-5.282481
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2010,29424,34.178485
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2011,37587,27.742659
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2012,51932,38.164791
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2013,73639,41.798891
+Portugal,PRT,High income: OECD,TCER,Europe & Central Asia,2014,109456,48.638629
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,1995,40,
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,1996,114,185
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,1997,419,267.54386
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,1998,415,-0.954654
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,1999,115,-72.289157
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2000,116,0.869565
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2001,252,117.241379
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2002,193,-23.412698
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2003,278,44.041451
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2004,188,-32.374101
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2005,146,-22.340426
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2006,235,60.958904
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2007,133,-43.404255
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2008,429,222.556391
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2009,448,4.428904
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2010,514,14.732143
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2011,636,23.735409
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2012,687,8.018868
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2013,826,20.232897
+Puerto Rico,PRI,High income: nonOECD,THSR,Latin America & Caribbean,2014,884,7.021792
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,1995,9410,
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,1996,9836,4.527099
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,1997,9592,-2.480683
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,1998,11828,23.311093
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,1999,8420,-28.812986
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2000,9457,12.315914
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2001,8055,-14.824997
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2002,7854,-2.495345
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2003,6807,-13.330787
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2004,8708,27.927134
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2005,10310,18.396876
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2006,11402,10.591659
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2007,16822,47.53552
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2008,26182,55.641422
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2009,19681,-24.830036
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2010,17796,-9.577765
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2011,18570,4.349292
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2012,19991,7.652127
+Romania,ROU,Upper middle income,VFR,Europe & Central Asia,2013,21502,7.558401
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,1995,390470,
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,1996,349449,-10.505545
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,1997,449032,28.497148
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,1998,464238,3.386396
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,1999,445924,-3.944959
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2000,493800,10.736359
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2001,461175,-6.606926
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2002,725825,57.386025
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2003,679608,-6.367513
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2004,813142,19.64868
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2005,798661,-1.78087
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2006,765336,-4.172609
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2007,765120,-0.028223
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2008,815469,6.580536
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2009,718581,-11.881261
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2010,747640,4.043942
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2011,845588,13.100958
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2012,978988,15.776004
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2013,1071515,9.451291
+Russian Federation,RUS,High income: nonOECD,VFN,Europe & Central Asia,2014,1125098,5.000677
+Rwanda,RWA,Low income,VFN,Sub-Saharan Africa,2007,2161,
+Rwanda,RWA,Low income,VFN,Sub-Saharan Africa,2008,2507,16.011106
+Rwanda,RWA,Low income,VFN,Sub-Saharan Africa,2009,2965,18.268847
+Rwanda,RWA,Low income,VFN,Sub-Saharan Africa,2010,4062,36.998314
+Rwanda,RWA,Low income,VFN,Sub-Saharan Africa,2011,4533,11.595273
+Rwanda,RWA,Low income,VFN,Sub-Saharan Africa,2012,4077,-10.059563
+Rwanda,RWA,Low income,VFN,Sub-Saharan Africa,2013,5831,43.02183
+Samoa,WSM,Lower middle income,VFR,East Asia & Pacific,2006,752,
+Samoa,WSM,Lower middle income,VFR,East Asia & Pacific,2007,822,9.308511
+Samoa,WSM,Lower middle income,VFR,East Asia & Pacific,2008,720,-12.408759
+Samoa,WSM,Lower middle income,VFR,East Asia & Pacific,2009,1193,65.694444
+Samoa,WSM,Lower middle income,VFR,East Asia & Pacific,2010,1356,13.663034
+Samoa,WSM,Lower middle income,VFR,East Asia & Pacific,2011,1512,11.504425
+Samoa,WSM,Lower middle income,VFR,East Asia & Pacific,2012,1671,10.515873
+Samoa,WSM,Lower middle income,VFR,East Asia & Pacific,2013,1520,-9.036505
+Samoa,WSM,Lower middle income,VFR,East Asia & Pacific,2014,2009,32.171053
+San Marino,SMR,High income: nonOECD,VFN,Europe & Central Asia,2005,37566,
+San Marino,SMR,High income: nonOECD,VFN,Europe & Central Asia,2006,25788,-31.352819
+San Marino,SMR,High income: nonOECD,VFN,Europe & Central Asia,2007,17422,-32.441446
+San Marino,SMR,High income: nonOECD,VFN,Europe & Central Asia,2008,9665,-44.524165
+San Marino,SMR,High income: nonOECD,VFN,Europe & Central Asia,2009,9041,-6.456286
+San Marino,SMR,High income: nonOECD,VFN,Europe & Central Asia,2010,10189,12.69771
+San Marino,SMR,High income: nonOECD,VFN,Europe & Central Asia,2011,12206,19.795858
+San Marino,SMR,High income: nonOECD,VFN,Europe & Central Asia,2012,14363,17.671637
+San Marino,SMR,High income: nonOECD,VFN,Europe & Central Asia,2013,13828,-3.724849
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2000,9842,
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2001,9522,-3.251372
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2002,11552,21.319051
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2003,15136,31.024931
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2004,21398,41.371564
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2005,22837,6.724928
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2006,30658,34.247055
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2007,22991,-25.008154
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2008,55352,140.755078
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2009,18298,-66.942477
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2010,20416,11.575036
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2011,16753,-17.94088
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2012,19079,13.883147
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2013,32278,69.178565
+Saudi Arabia,SAU,High income: nonOECD,TFN,Middle East & North Africa,2014,19450,-39.741487
+Serbia,SRB,Upper middle income,TCEN,Europe & Central Asia,2013,5783,
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,1995,431,
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,1996,685,58.932715
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,1997,731,6.715328
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,1998,453,-38.030096
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,1999,324,-28.476821
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2000,472,45.679012
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2001,413,-12.5
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2002,551,33.414044
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2003,407,-26.134301
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2004,400,-1.719902
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2005,505,26.25
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2006,644,27.524752
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2007,1066,65.52795
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2008,843,-20.919325
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2009,919,9.015421
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2010,1078,17.301415
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2011,2124,97.03154
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2012,4484,111.111111
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2013,7745,72.725245
+Seychelles,SYC,High income: nonOECD,TFR,Sub-Saharan Africa,2014,13349,72.356359
+Sierra Leone,SLE,Low income,TFR,Sub-Saharan Africa,2010,826,
+Sierra Leone,SLE,Low income,TFR,Sub-Saharan Africa,2011,4179,405.932203
+Sierra Leone,SLE,Low income,TFR,Sub-Saharan Africa,2012,2257,-45.991864
+Sierra Leone,SLE,Low income,TFR,Sub-Saharan Africa,2013,3090,36.907399
+Sierra Leone,SLE,Low income,TFR,Sub-Saharan Africa,2014,1832,-40.711974
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,1995,203668,
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,1996,226437,11.179469
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,1997,235267,3.899539
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,1998,293415,24.715748
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,1999,372685,27.016342
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2000,439958,18.050901
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2001,500545,13.771087
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2002,666316,33.118101
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2003,559736,-15.995414
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2004,866524,54.80941
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2005,836858,-3.423564
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2006,1015661,21.36599
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2007,1090287,7.34753
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2008,1053659,-3.359482
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2009,913067,-13.343216
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2010,1150027,25.952093
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2011,1554480,35.169
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2012,2198157,41.407866
+Singapore,SGP,High income: nonOECD,VFN,East Asia & Pacific,2013,2645728,20.361193
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,1999,606,
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2000,537,-11.386139
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2001,550,2.420857
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2002,780,41.818182
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2003,684,-12.307692
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2004,801,17.105263
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2005,1447,80.649189
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2006,2177,50.449205
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2007,4286,96.876435
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2008,7675,79.071395
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2009,6540,-14.788274
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2010,8337,27.477064
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2011,11857,42.221423
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2012,16317,37.614911
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2013,15882,-2.665931
+Slovakia,SVK,High income: nonOECD,TCEN,Europe & Central Asia,2014,14390,-9.394283
+Slovenia,SVN,High income: OECD,TCEN,Europe & Central Asia,2005,1754,-87.81098
+Slovenia,SVN,High income: OECD,TCEN,Europe & Central Asia,2006,2615,49.087799
+Slovenia,SVN,High income: OECD,TCEN,Europe & Central Asia,2007,3503,33.957935
+Slovenia,SVN,High income: OECD,TCEN,Europe & Central Asia,2008,4911,40.194119
+Slovenia,SVN,High income: OECD,TCEN,Europe & Central Asia,2009,5638,14.803502
+Slovenia,SVN,High income: OECD,TCEN,Europe & Central Asia,2010,8234,46.044697
+Slovenia,SVN,High income: OECD,TCEN,Europe & Central Asia,2011,11050,34.19966
+Slovenia,SVN,High income: OECD,TCEN,Europe & Central Asia,2012,15294,38.40724
+Slovenia,SVN,High income: OECD,TCEN,Europe & Central Asia,2013,19801,29.469073
+Slovenia,SVN,High income: OECD,TCEN,Europe & Central Asia,2014,24113,21.776678
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,1997,6704,
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,1998,12790,90.781623
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,1999,19337,51.188428
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2000,19722,1.991002
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2001,20577,4.33526
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2002,25849,25.620839
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2003,33128,28.159697
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2004,45934,38.656122
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2005,41704,-9.208865
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2006,40327,-3.301842
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2007,46325,14.87341
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2008,40275,-13.059903
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2009,36480,-9.422719
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2010,71921,97.151864
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2011,92587,28.734306
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2012,140607,51.864733
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2013,160324,14.022773
+South Africa,ZAF,Upper middle income,VFR,Sub-Saharan Africa,2014,88598,-44.738155
+Spain,ESP,High income: OECD,TCER,Europe & Central Asia,2005,105271,
+Spain,ESP,High income: OECD,TCER,Europe & Central Asia,2006,109291,3.818716
+Spain,ESP,High income: OECD,TCER,Europe & Central Asia,2007,145412,33.050297
+Spain,ESP,High income: OECD,TCER,Europe & Central Asia,2008,152480,4.860672
+Spain,ESP,High income: OECD,TCER,Europe & Central Asia,2009,159503,4.60585
+Spain,ESP,High income: OECD,TCER,Europe & Central Asia,2010,218795,37.172969
+Spain,ESP,High income: OECD,TCER,Europe & Central Asia,2011,299961,37.096826
+Spain,ESP,High income: OECD,TCER,Europe & Central Asia,2012,365318,21.788499
+Spain,ESP,High income: OECD,TCER,Europe & Central Asia,2013,462845,26.696467
+Spain,ESP,High income: OECD,TCER,Europe & Central Asia,2014,609413,31.666757
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,1995,1437,
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,1996,921,-35.908142
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,1997,1617,75.570033
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,1998,1557,-3.710575
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,1999,1704,9.441233
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2000,2208,29.577465
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2001,3721,68.523551
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2002,4338,16.581564
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2003,7251,67.150761
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2004,9088,25.334437
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2005,9668,6.382042
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2006,16274,68.328506
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2007,11949,-26.576134
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2008,9812,-17.884342
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2009,8550,-12.861802
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2010,10430,21.988304
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2011,16308,56.356663
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2012,25781,58.088055
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2013,54288,110.573678
+Sri Lanka,LKA,Lower middle income,TFR,South Asia,2014,128166,136.085323
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,1995,3914,
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,1996,2011,-48.620337
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,1997,1269,-36.897066
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,1998,1402,10.480693
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,1999,1533,9.343795
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2000,1560,1.761252
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2001,1163,-25.448718
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2002,962,-17.282889
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2003,730,-24.116424
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2004,2041,179.589041
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2006,1757,-13.914748
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2007,1320,-24.871941
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2008,1737,31.590909
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2009,1069,-38.45711
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2010,1980,85.219832
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2011,2470,24.747475
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2012,2491,0.850202
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2013,2356,-5.41951
+Suriname,SUR,Upper middle income,TFR,Latin America & Caribbean,2014,3050,29.456706
+Sweden,SWE,High income: OECD,TCER,Europe & Central Asia,2004,11104,
+Sweden,SWE,High income: OECD,TCER,Europe & Central Asia,2005,34574,211.365274
+Sweden,SWE,High income: OECD,TCER,Europe & Central Asia,2006,49985,44.573957
+Sweden,SWE,High income: OECD,TCER,Europe & Central Asia,2007,56809,13.652096
+Sweden,SWE,High income: OECD,TCER,Europe & Central Asia,2008,49229,-13.342956
+Sweden,SWE,High income: OECD,TCER,Europe & Central Asia,2009,42486,-13.697211
+Sweden,SWE,High income: OECD,TCER,Europe & Central Asia,2010,49096,15.558066
+Sweden,SWE,High income: OECD,TCER,Europe & Central Asia,2011,64559,31.495438
+Sweden,SWE,High income: OECD,TCER,Europe & Central Asia,2012,71379,10.56398
+Sweden,SWE,High income: OECD,TCER,Europe & Central Asia,2013,83554,17.056837
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,1999,38600,
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2000,44752,15.937824
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2001,49379,10.339203
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2002,69268,40.278256
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2003,62542,-9.710111
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2005,110004,75.888203
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2006,132610,20.550162
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2007,145921,10.037705
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2008,129176,-11.475387
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2009,187138,44.870564
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2010,286420,53.052827
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2011,452724,58.062984
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2012,575326,27.080959
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2013,704945,22.529661
+Switzerland,CHE,High income: OECD,THSR,Europe & Central Asia,2014,823713,16.847839
+Syrian Arab Republic,SYR,Lower middle income,TCEN,Middle East & North Africa,2004,2890,
+Syrian Arab Republic,SYR,Lower middle income,TCEN,Middle East & North Africa,2005,3397,17.543253
+Syrian Arab Republic,SYR,Lower middle income,TCEN,Middle East & North Africa,2006,3748,10.332646
+Syrian Arab Republic,SYR,Lower middle income,TCEN,Middle East & North Africa,2007,4225,12.726788
+Syrian Arab Republic,SYR,Lower middle income,TCEN,Middle East & North Africa,2008,5723,35.455621
+Syrian Arab Republic,SYR,Lower middle income,TCEN,Middle East & North Africa,2009,7753,35.470907
+Syrian Arab Republic,SYR,Lower middle income,TCEN,Middle East & North Africa,2010,10960,41.364633
+Syrian Arab Republic,SYR,Lower middle income,TCEN,Middle East & North Africa,2011,5320,-51.459854
+Taiwan,,,VFR,East Asia & Pacific,2008,329204,
+Taiwan,,,VFR,East Asia & Pacific,2009,972123,195.295015
+Taiwan,,,VFR,East Asia & Pacific,2010,1630735,67.749863
+Taiwan,,,VFR,East Asia & Pacific,2011,1784185,9.409867
+Taiwan,,,VFR,East Asia & Pacific,2012,2586428,44.964115
+Taiwan,,,VFR,East Asia & Pacific,2013,2874702,11.145642
+Taiwan,,,VFR,East Asia & Pacific,2014,3987152,38.697924
+Tajikistan,TJK,Lower middle income,VFR,Europe & Central Asia,1999,75,
+Tajikistan,TJK,Lower middle income,VFR,Europe & Central Asia,2000,181,141.333333
+Tajikistan,TJK,Lower middle income,VFR,Europe & Central Asia,2001,78,-56.906077
+Tajikistan,TJK,Lower middle income,VFR,Europe & Central Asia,2008,1522,1851.28
+Tajikistan,TJK,Lower middle income,VFR,Europe & Central Asia,2009,2437,60.118265
+Tajikistan,TJK,Lower middle income,VFR,Europe & Central Asia,2010,2694,10.545753
+Tajikistan,TJK,Lower middle income,VFR,Europe & Central Asia,2011,3788,40.60876
+Tajikistan,TJK,Lower middle income,VFR,Europe & Central Asia,2012,4105,8.368532
+Tajikistan,TJK,Lower middle income,VFR,Europe & Central Asia,2013,970,-76.37028
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,1995,3334,
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,1996,3683,10.467906
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,1997,4070,10.507738
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,1998,5446,33.808354
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,1999,7084,30.077121
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2000,5664,-20.045172
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2001,5002,-11.687853
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2002,3163,-36.765294
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2003,4007,26.683528
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2004,3602,-10.107312
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2005,4289,19.072737
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2006,4798,11.867568
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2007,6353,32.409337
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2008,8982,41.382024
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2009,7883,-12.235582
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2010,10997,39.502727
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2011,9018,-17.995817
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2012,13760,52.583721
+Tanzania,TZA,Low income,VFR,Sub-Saharan Africa,2013,17336,25.988372
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,1995,380619,
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,1996,469707,23.406083
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,1997,452510,-3.661219
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,1998,604472,33.58202
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,1999,813596,34.596143
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2000,753781,-7.351929
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2001,801362,6.312311
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2002,797976,-0.422531
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2003,606635,-23.97829
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2004,729848,20.310895
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2005,776792,6.432024
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2006,949117,22.184188
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2007,907117,-4.425166
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2008,826660,-8.869528
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2009,777508,-5.945854
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2010,1122219,44.335364
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2011,1721247,53.378886
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2012,2786860,61.90936
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2013,4637335,66.399999
+Thailand,THA,Upper middle income,TFN,East Asia & Pacific,2014,4623806,-0.291741
+The Former Yugoslav Republic of Macedonia,null,null,TCEN,null,2010,853,
+The Former Yugoslav Republic of Macedonia,null,null,TCEN,null,2011,1664,95.076202
+The Former Yugoslav Republic of Macedonia,null,null,TCEN,null,2012,2828,69.951923
+The Former Yugoslav Republic of Macedonia,null,null,TCEN,null,2013,4075,44.094767
+Timor-Leste,TLS,Lower middle income,TFR,East Asia & Pacific,2006,922,
+Timor-Leste,TLS,Lower middle income,TFR,East Asia & Pacific,2007,669,-27.440347
+Timor-Leste,TLS,Lower middle income,TFR,East Asia & Pacific,2008,976,45.889387
+Timor-Leste,TLS,Lower middle income,TFR,East Asia & Pacific,2009,1991,103.995902
+Timor-Leste,TLS,Lower middle income,TFR,East Asia & Pacific,2010,2659,33.550979
+Timor-Leste,TLS,Lower middle income,TFR,East Asia & Pacific,2011,3464,30.274539
+Timor-Leste,TLS,Lower middle income,TFR,East Asia & Pacific,2012,4972,43.533487
+Timor-Leste,TLS,Lower middle income,TFR,East Asia & Pacific,2013,4346,-12.590507
+Timor-Leste,TLS,Lower middle income,TFR,East Asia & Pacific,2014,3717,-14.473079
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,1995,278,
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,1996,251,-9.71223
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,1997,244,-2.788845
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,1998,464,90.163934
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,1999,319,-31.25
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2000,468,46.708464
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2001,269,-42.521368
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2002,414,53.903346
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2004,307,-25.845411
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2005,285,-7.166124
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2006,352,23.508772
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2007,321,-8.806818
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2008,762,137.383178
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2009,807,5.905512
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2010,850,5.328377
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2011,671,-21.058824
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2012,550,-18.032787
+Tonga,TON,Upper middle income,TFR,East Asia & Pacific,2013,542,-1.454545
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,1995,70,
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,1996,151,115.714286
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,1997,164,8.609272
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,1998,159,-3.04878
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,1999,289,81.761006
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2000,303,4.844291
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2001,384,26.732673
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2002,278,-27.604167
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2003,377,35.611511
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2004,431,14.323607
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2005,604,40.139211
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2006,859,42.218543
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2007,1824,112.33993
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2008,1936,6.140351
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2009,2057,6.25
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2010,1548,-24.744774
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2011,2864,85.01292
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2012,2533,-11.557263
+Trinidad and Tobago,TTO,High income: nonOECD,TFR,Latin America & Caribbean,2013,3657,44.37426
+Tunisia,TUN,Upper middle income,THSN,Middle East & North Africa,2004,350,
+Tunisia,TUN,Upper middle income,THSN,Middle East & North Africa,2005,1087,210.571429
+Tunisia,TUN,Upper middle income,THSN,Middle East & North Africa,2006,1123,3.311868
+Tunisia,TUN,Upper middle income,THSN,Middle East & North Africa,2007,1825,62.511131
+Tunisia,TUN,Upper middle income,THSN,Middle East & North Africa,2008,2670,46.30137
+Tunisia,TUN,Upper middle income,THSN,Middle East & North Africa,2009,4663,74.644195
+Tunisia,TUN,Upper middle income,THSN,Middle East & North Africa,2010,9572,105.275574
+Tunisia,TUN,Upper middle income,THSN,Middle East & North Africa,2011,4556,-52.402842
+Tunisia,TUN,Upper middle income,THSN,Middle East & North Africa,2012,12427,172.761194
+Tunisia,TUN,Upper middle income,THSN,Middle East & North Africa,2013,21814,75.537137
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,1995,10243,
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,1996,11515,12.418237
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,1997,12715,10.42119
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,1998,11591,-8.839953
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,1999,11047,-4.693297
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2000,21518,94.785915
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2001,25295,17.552747
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2002,31951,26.313501
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2003,27557,-13.752308
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2004,35339,28.239649
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2005,44077,24.726223
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2006,53194,20.684257
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2007,64614,21.468587
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2008,61882,-4.228186
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2009,69336,12.045506
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2010,77142,11.258221
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2011,96701,25.354541
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2012,114582,18.491019
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2013,138876,21.202283
+Turkey,TUR,Upper middle income,VFN,Europe & Central Asia,2014,199746,43.830467
+Tuvalu,TUV,Upper middle income,TFN,East Asia & Pacific,2008,20,
+Tuvalu,TUV,Upper middle income,TFN,East Asia & Pacific,2009,74,270
+Tuvalu,TUV,Upper middle income,TFN,East Asia & Pacific,2010,41,-44.594595
+Tuvalu,TUV,Upper middle income,TFN,East Asia & Pacific,2011,9,-78.04878
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,1995,1149,
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,1996,1135,-1.218451
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,1997,880,-22.46696
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,1998,881,0.113636
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,1999,1127,27.922815
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2000,945,-16.149068
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2001,1025,8.465608
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2002,1036,1.073171
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2003,1181,13.996139
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2004,1798,52.243861
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2005,2177,21.078977
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2006,2951,35.553514
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2007,4220,43.002372
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2008,6088,44.265403
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2009,4629,-23.965177
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2010,5692,22.963923
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2011,6971,22.470134
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2012,8645,24.013771
+Uganda,UGA,Low income,TFR,Sub-Saharan Africa,2013,10792,24.835165
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,1995,1611,
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,1996,749,-53.507138
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,1997,10820,1344.59
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,1998,8413,-22.245841
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,1999,7508,-10.757162
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2000,5153,-31.366542
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2001,4261,-17.310305
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2002,8451,98.333724
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2003,8332,-1.408117
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2004,11037,32.465194
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2005,12756,15.574884
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2006,15458,21.182189
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2007,17160,11.01048
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2008,16574,-3.414918
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2009,16137,-2.63666
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2010,16794,4.071389
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2011,19057,13.475051
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2012,19718,3.468542
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2013,18128,-8.063698
+Ukraine,UKR,Lower middle income,TFR,Europe & Central Asia,2014,11308,-37.621359
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,1995,31000,
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,1996,31000,0
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,1997,29000,-6.451613
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,1998,32000,10.344828
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,1999,46000,43.75
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2000,41000,-10.869565
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2001,58000,41.463415
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2002,64000,10.344828
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2003,68000,6.25
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2004,95000,39.705882
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2005,95000,0
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2006,107276,12.922105
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2007,143353,33.630076
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2008,107860,-24.759161
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2009,89187,-17.312257
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2010,109000,22.215121
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2011,149000,36.697248
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2012,178700,19.932886
+United Kingdom,GBR,High income: OECD,VFR,Europe & Central Asia,2013,196000,9.68103
+United States of America,USA,High income: OECD,TFR,North America,1995,166520,
+United States of America,USA,High income: OECD,TFR,North America,1996,198759,19.360437
+United States of America,USA,High income: OECD,TFR,North America,1997,209609,5.458872
+United States of America,USA,High income: OECD,TFR,North America,1998,208930,-0.323936
+United States of America,USA,High income: OECD,TFR,North America,1999,384086,83.834777
+United States of America,USA,High income: OECD,TFR,North America,2000,249441,-35.055951
+United States of America,USA,High income: OECD,TFR,North America,2001,232416,-6.825261
+United States of America,USA,High income: OECD,TFR,North America,2002,225565,-2.947732
+United States of America,USA,High income: OECD,TFR,North America,2003,157326,-30.252477
+United States of America,USA,High income: OECD,TFR,North America,2004,202544,28.741594
+United States of America,USA,High income: OECD,TFR,North America,2005,270272,33.43866
+United States of America,USA,High income: OECD,TFR,North America,2006,320450,18.565741
+United States of America,USA,High income: OECD,TFR,North America,2007,397405,24.014667
+United States of America,USA,High income: OECD,TFR,North America,2008,492958,24.044237
+United States of America,USA,High income: OECD,TFR,North America,2009,524817,6.462822
+United States of America,USA,High income: OECD,TFR,North America,2010,801738,52.76525
+United States of America,USA,High income: OECD,TFR,North America,2011,1089405,35.880425
+United States of America,USA,High income: OECD,TFR,North America,2012,1474408,35.340668
+United States of America,USA,High income: OECD,TFR,North America,2013,1806553,22.527347
+United States of America,USA,High income: OECD,TFR,North America,2014,2188387,21.136053
+Uzbekistan,UZB,Lower middle income,TFR,Europe & Central Asia,2013,11251,
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,1998,2554,
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,1999,1043,-59.162099
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2000,608,-41.706616
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2001,1598,162.828947
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2002,923,-42.2403
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2003,795,-13.867822
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2004,1134,42.641509
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2005,1435,26.54321
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2006,10056,600.766551
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2007,10138,0.815434
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2008,8229,-18.830144
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2009,6835,-16.94009
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2010,6023,-11.880029
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2011,6315,4.848082
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2012,22850,261.836896
+Venezuela,VEN,High income: nonOECD,VFN,Latin America & Caribbean,2013,33855,48.161926
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,1995,62640,
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,1996,377555,502.737867
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,1997,405389,7.372171
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,1998,420743,3.787473
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,1999,484102,15.058836
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2000,626476,29.409918
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2001,672846,7.40172
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2002,724385,7.659851
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2003,693423,-4.274246
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2004,778431,12.259184
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2005,717400,-7.840258
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2006,516300,-28.031781
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2007,574600,11.291885
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2008,643300,11.956143
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2009,518900,-19.33779
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2010,905400,74.484486
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2011,1416800,56.483322
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2012,1428693,0.839427
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2013,1907794,33.534216
+Viet Nam,VNM,Lower middle income,VFR,East Asia & Pacific,2014,1947236,2.067414
+Yemen,YEM,Lower middle income,TFN,Middle East & North Africa,2004,2872,
+Yemen,YEM,Lower middle income,TFN,Middle East & North Africa,2005,1947,-32.207521
+Yemen,YEM,Lower middle income,TFN,Middle East & North Africa,2006,3414,75.346687
+Yemen,YEM,Lower middle income,TFN,Middle East & North Africa,2007,4227,23.813708
+Yemen,YEM,Lower middle income,TFN,Middle East & North Africa,2008,4695,11.071682
+Yemen,YEM,Lower middle income,TFN,Middle East & North Africa,2009,5843,24.451544
+Yemen,YEM,Lower middle income,TFN,Middle East & North Africa,2010,5331,-8.762622
+Yemen,YEM,Lower middle income,TFN,Middle East & North Africa,2011,1824,-65.785031
+Yemen,YEM,Lower middle income,TFN,Middle East & North Africa,2012,1831,0.383772
+Yemen,YEM,Lower middle income,TFN,Middle East & North Africa,2013,3466,89.295467
+Zambia,ZMB,Lower middle income,TFR,Sub-Saharan Africa,1995,334,
+Zambia,ZMB,Lower middle income,TFR,Sub-Saharan Africa,1996,530,58.682635
+Zambia,ZMB,Lower middle income,TFR,Sub-Saharan Africa,2010,18319,3356.42
+Zambia,ZMB,Lower middle income,TFR,Sub-Saharan Africa,2011,30076,64.179267
+Zambia,ZMB,Lower middle income,TFR,Sub-Saharan Africa,2012,63892,112.435164
+Zambia,ZMB,Lower middle income,TFR,Sub-Saharan Africa,2013,27666,-56.698804
