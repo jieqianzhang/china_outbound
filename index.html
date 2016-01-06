@@ -18,7 +18,6 @@ h1{
 
 h2,h3,h4,h5,p{
     font-family: "Benton Sans","Arial",sans-serif;
-    padding-left: 20px;
 }
 
 .intro{
@@ -43,8 +42,11 @@ h2,h3,h4,h5,p{
 
 .container{
     width: 40%;
-    margin-top: 50px;
     margin-left: 0px;
+}
+
+.description{
+  display: none;
 }
 
 .axis line {
@@ -72,9 +74,10 @@ h2,h3,h4,h5,p{
 	border-top: 1px solid darkgrey;
 }
 
-.mk, .sk, .th, .tw, .jp, .us, .vt, .ms, .rs{
-  opacity: 0.2;
+#main_container{
+  margin-bottom: 50px;
 }
+
 
 @media only screen and (min-width:768px) {
 
@@ -84,8 +87,8 @@ h2,h3,h4,h5,p{
     margin-left: 0px;
 }
 
-  .fixed{
-    width: 60%;
+  #fixed{
+    width: 55%;
     float:right;
     position: fixed;
     padding-top: 20px;
@@ -101,14 +104,22 @@ h2,h3,h4,h5,p{
   .container{
     width: 80%;
     margin-top: 50px;
-    margin-left: 0px;
+    margin-left: auto;
+    margin-right: auto;
 }
+  #head{
+    height: 100%;
+    margin-bottom: 20px;
+  }
   
-  .fixed{
-    width: 80%;
+  #fixed{
+    background-color: #fff1e0 ;
+    width: 100%;
     position:fixed;
-    left:20px;
-    top:20px;
+    padding-left: 10%;
+    padding-right:10%;
+    bottom: 0px;
+    z-index: 99;
   }
 
 
@@ -129,76 +140,91 @@ h2,h3,h4,h5,p{
 </h5>
 </div> 
 
+<div>
+
+    <div id="fixed">
+       
+   </div>
+
 
 
 <div id="main_container">
-   
 
-     <div class="fixed">
-        <p class="hk"> Hong Kong has ranked as the top destination for Chinese mainland tourists for over 10 years. The number, however,dropped dramatically due to the protests against mainland shoppers in the first half of 2015. Dr. Lam Kin-ngok, chairman of Hong Kong Tourism Board, predicted that the number of mainland tourists will drop by 1% to 2% in 2015. If so, the year of 2015 will be the first year seeing a tourist drop since Hong Kong implemented Individual Visit Scheme, which let in individual mainland tourist to Hong Kong, in 2003.</p>
-    </div>
-
-
-    <div class="container hk">
+    <div class="container graphic1">
         <h4><strong>Hong Kong</strong></h4>
+        <p class="description">Hong Kong has ranked as the top destination for Chinese mainland tourists for over 10 years. The number, however,dropped dramatically due to the protests against mainland shoppers in the first half of 2015. Dr. Lam Kin-ngok, chairman of Hong Kong Tourism Board, predicted that the number of mainland tourists will drop by 1% to 2% in 2015. If so, the year of 2015 will be the first year seeing a tourist drop since Hong Kong implemented Individual Visit Scheme, which let in individual mainland tourist to Hong Kong, in 2003.</p>
         <div id="graphic1"> 
         </div>
     </div>
 
 
-    <div class="container mk">
+    <div class="container graphic2">
         <h4><strong>Macao</strong></h4>
+        <p class="description">Macao has ranked as the top destination for Chinese mainland tourists for over 10 years. The number, however,dropped dramatically due to the protests against mainland shoppers in the first half of 2015. Dr. Lam Kin-ngok, chairman of Hong Kong Tourism Board, predicted that the number of mainland tourists will drop by 1% to 2% in 2015. If so, the year of 2015 will be the first year seeing a tourist drop since Hong Kong implemented Individual Visit Scheme, which let in individual mainland tourist to Hong Kong, in 2003.</p>
         <div id="graphic2"> 
         </div>
     </div>
 
-    <div class="container sk">
+    <div class="container graphic3">
         <h4><strong>South Korea</strong></h4>
+         <p class="description">South Korea</p>
         <div id="graphic3"> 
         </div>
     </div>
 
-    <div class="container th">
+    <div class="container graphic4">
         <h4><strong>Thailand</strong></h4>
+        <p class="description">Thai</p>
         <div id="graphic4"> 
         </div>
     </div>
 
-    <div class="container tw">
+    <div class="container graphic5">
         <h4><strong>Taiwan</strong></h4>
+        <p class="description">Taiwan</p>
         <div id="graphic5"> 
         </div>
     </div>
 
-    <div class="container jp">
+    <div class="container graphic6">
         <h4><strong>Japan</strong></h4>
+        <p class="description">Japan</p>
         <div id="graphic6"> 
         </div>
     </div>
 
-    <div class="container us">
+    <div class="container graphic7">
         <h4><strong>United States</strong></h4>
+        <p class="description">United States</p>
         <div id="graphic7"> 
         </div>
     </div>
 
-    <div class="container vt">
+    <div class="container graphic8">
         <h4><strong>Vietnam</strong></h4>
+        <p class="description">Vietnam</p>
         <div id="graphic8"> 
         </div>
     </div>
 
-    <div class="container ms">
+    <div class="container graphic9">
         <h4><strong>Malaysia</strong></h4>
+        <p class="description">Malay</p>
         <div id="graphic9"> 
         </div>
     </div>
 
-    <div class="container rs">
+    <div class="container graphic10">
         <h4><strong>Russia</strong></h4>
+        <p class="description">Russia</p>
         <div id="graphic10"> 
         </div>
     </div>
+
+    <div class="container">
+    </div>
+
+</div>
 
 </div>
 
@@ -207,10 +233,10 @@ h2,h3,h4,h5,p{
 </div>
 
 
-<script src="//d3js.org/d3.v3.min.js"></script>
+<!-- <script src="//d3js.org/d3.v3.min.js"></script> -->
 
 
-<!-- <script type="text/javascript" src="js/d3.min.js"></script> -->
+<script type="text/javascript" src="js/d3.min.js"></script>
 
 <script>
 var w = parseInt(d3.select(".container").style("width"), 10);
@@ -894,19 +920,36 @@ var line_tw = d3.svg.line()
 
     }
 
-
-
-
       
 });
-
-
-
     
+</script>
+
+<script>
 
 
+$(window).load(function () {
+    $(window).on("scroll resize", function () {
+        var pos = $('#fixed').offset();
+        $('.container').each(function () {
+            if (pos.top >= $(this).offset().top && pos.top <= $(this).next().offset().top) {
+                $('#fixed').html($(this).find('.description').text());
+                $(this).css({'opacity': 1});
+                $(this).prev().css({'opacity': .4});
+                 $(this).next().css({'opacity': .4});
 
-    
+                return; 
+            }
+        });
+    });
+
+    $(document).ready(function () {
+        $(window).trigger('scroll'); // init the value
+    });
+
+})
+
+
 </script>
 
 </body>
