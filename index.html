@@ -136,7 +136,7 @@ h2,h3,h4,h5,p{
 <h5 class="date">DEC.24, 2015</h5>
 <h5 class="intro"> The number of outbound trips taken by Mainland Chinese tourists have seen itself a rapid growth over the past decade. According to the China National Tourism Administration, in 2014, China's yearly outbound tourists reached 100 million for the first time, and in the first half of 2015, the number has exceeded 610 million. Asia still dominates China's outbound tourism market, followed by the United States and Europe. 
 </h5>
-<h5 class="intro">Many reasons could lead to an increase of Chinese tourists – simplied visa application procedure,  , or even a popular movie. Here we are going to have a review on the top 10 destinations for Chinese tourists and see what could be the reason for an increase/drop. 
+<h5 class="intro">Many reasons could lead to a rise in Chinese tourists – simplied visa application procedure, weak foreign currency, or even a popular movie. Here we are going to look back a decade on the top destinations for Chinese tourists and see what could be the reason for an increase or drop of Chinese tourists. 
 </h5>
 </div> 
 
@@ -144,7 +144,7 @@ h2,h3,h4,h5,p{
 
     <div id="fixed">
        
-   </div>
+    </div>
 
 
 
@@ -152,75 +152,76 @@ h2,h3,h4,h5,p{
 
     <div class="container graphic1">
         <h4><strong>Hong Kong</strong></h4>
-        <p class="description">Hong Kong has ranked as the top destination for Chinese mainland tourists for over 10 years. The number, however,dropped dramatically due to the protests against mainland shoppers in the first half of 2015. Dr. Lam Kin-ngok, chairman of Hong Kong Tourism Board, predicted that the number of mainland tourists will drop by 1% to 2% in 2015. If so, the year of 2015 will be the first year seeing a tourist drop since Hong Kong implemented Individual Visit Scheme, which let in individual mainland tourist to Hong Kong, in 2003.</p>
+        <p class="description">Hong Kong has ranked as the top destination for Chinese mainland tourists for over 10 years.</p>
+        <p class="description">The number, however, dropped dramatically due to the protests against mainland shoppers starting in the first half of 2015. Dr. Lam Kin-ngok, chairman of Hong Kong Tourism Board, predicted that the number of mainland tourists will drop by 1% to 2% in 2015. If so, the year of 2015 will be the first year seeing a tourist drop since Hong Kong implemented Individual Visit Scheme, which let in individual mainland tourist to Hong Kong, in 2003.</p>
         <div id="graphic1"> 
         </div>
     </div>
 
 
-    <div class="container graphic2">
+ <!--    <div class="container graphic2">
         <h4><strong>Macao</strong></h4>
-        <p class="description">Macao has ranked as the top destination for Chinese mainland tourists for over 10 years. The number, however,dropped dramatically due to the protests against mainland shoppers in the first half of 2015. Dr. Lam Kin-ngok, chairman of Hong Kong Tourism Board, predicted that the number of mainland tourists will drop by 1% to 2% in 2015. If so, the year of 2015 will be the first year seeing a tourist drop since Hong Kong implemented Individual Visit Scheme, which let in individual mainland tourist to Hong Kong, in 2003.</p>
+        <p class="description">Macao??????????</p>
         <div id="graphic2"> 
         </div>
     </div>
-
+ -->
     <div class="container graphic3">
         <h4><strong>South Korea</strong></h4>
-         <p class="description">South Korea</p>
+         <p class="description">South Korea has become the top foreign tourism destination for Chinese in 2014, with more than 6 million Chinese tourists. The number has seen double-digit growth over the past couple of years. Unfortunately, South Korea's tourism is hit hard by the MERS outbreak in 2015, when Chinese tourists chose to flock to its next-door neighbour Japan. </p>
         <div id="graphic3"> 
         </div>
     </div>
 
     <div class="container graphic4">
         <h4><strong>Thailand</strong></h4>
-        <p class="description">Thai</p>
+        <p class="description">Political instability and military coup are the major reasons affecting Thailand's tourism, which account for ten percent of the economy. The 2006 Thai coup d'état caused a 5% drop the year after. The 2014 coup has diminished the positive effects brought by Lost in Thailand, a Chinese hit moive and China's highest grossing film of 2012, which caused the number of Chinese tourists rise over 50% in 2012 and the year after. </p>
         <div id="graphic4"> 
         </div>
     </div>
 
     <div class="container graphic5">
         <h4><strong>Taiwan</strong></h4>
-        <p class="description">Taiwan</p>
+        <p class="description">Since July 2008, Taiwan passed a legislation allowing Chinese tourists to travel into Taiwan, millions have visited the island. Taiwan has become the second most popular tourism destination for Chinese tourists in the first half of 2015. </p>
         <div id="graphic5"> 
         </div>
     </div>
 
     <div class="container graphic6">
         <h4><strong>Japan</strong></h4>
-        <p class="description">Japan</p>
+        <p class="description"> Japan's tourism was hit hard by the devastating earthquake, tsuanmi, and Fukushima Daiichi nuclear crisis in 2011. The situation has improved since Japanese yen's sharp depreciation since 2012. The depreciation of the Japanese yen is cutting travel expenses for foreign tourists, prompting many mainlanders to visit Japan. </p>
         <div id="graphic6"> 
         </div>
     </div>
 
     <div class="container graphic7">
         <h4><strong>United States</strong></h4>
-        <p class="description">United States</p>
+        <p class="description"></p>
         <div id="graphic7"> 
         </div>
     </div>
 
-    <div class="container graphic8">
+   <!--  <div class="container graphic8">
         <h4><strong>Vietnam</strong></h4>
-        <p class="description">Vietnam</p>
+        <p class="description">Vietnam ????????</p>
         <div id="graphic8"> 
         </div>
     </div>
-
+ -->
     <div class="container graphic9">
         <h4><strong>Malaysia</strong></h4>
-        <p class="description">Malay</p>
+        <p class="description"></p>
         <div id="graphic9"> 
         </div>
     </div>
 
-    <div class="container graphic10">
+   <!--  <div class="container graphic10">
         <h4><strong>Russia</strong></h4>
-        <p class="description">Russia</p>
+        <p class="description">Russia ????????????????</p>
         <div id="graphic10"> 
         </div>
     </div>
-
+ -->
     <div class="container">
     </div>
 
@@ -300,17 +301,36 @@ d3.csv("data.csv", function(error, data) {
     }
   });
 
+  var x_hk = d3.scale.linear()
+    .range([0, width])
+    .domain([2004,2015]);
 
 
-  x.domain([2004,2014]);
+  var xAxis_hk = d3.svg.axis()
+    .scale(x_hk)
+    .orient("bottom")
+    .tickSize(-height,0,0)
+    .tickValues([2004,2006,2008,2010,2012,2014])
+    .tickFormat(d3.format("d"));
+
+ 
   y.domain([-60,60]);
 
   yAxis.tickValues([50, 25, 0, -25, -50]);
 
+  var area_hk = d3.svg.area()
+    .x(function(d) { return x_hk(d.year); })
+    .y0(height/2)
+    .y1(function(d) { return y(d.increase_rate); });
+
+var line_hk = d3.svg.line()
+     .x(function(d) { return x_hk(d.year); })
+     .y(function(d) { return y(d.increase_rate); });
+
   svg_hk.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
-      .call(xAxis);
+      .call(xAxis_hk);
 
   svg_hk.append("g")
       .attr("class", "y axis")
@@ -326,15 +346,64 @@ d3.csv("data.csv", function(error, data) {
   svg_hk.append("path")
       .datum(data_hk)
       .attr("class", "area")
-      .attr("d", area)
+      .attr("d", area_hk)
       .style("fill","#9e2f50");
 
 
   svg_hk.append("path")
       .datum(data_hk)
       .attr("class", "line")
-      .attr("d",line)
+      .attr("d",line_hk)
 
+  svg_hk.append("line")
+  	.attr("x1", function(){
+  		return x_hk(2014)
+  	})
+  	.attr("y1",function(){
+  		return y(15.958655)
+  	})
+  	.attr("x2", function(){
+  		return x_hk(2015)
+  	})
+  	.attr("y2",function(){
+  		return y(-1.5)
+  	})
+  	.attr("stroke-width", 1.5)
+    .attr("stroke", "black")
+    .attr("id","line_hk")
+    .style("stroke-dasharray",("2,2"));
+
+  svg_hk.append("text")
+    .text("Protests against mainland tourists")
+    .style("text-anchor","end")
+    .attr("x", function(){
+      return x_hk(2015)
+    })
+    .attr("y",function(){
+      return y(-16)
+    })
+    .attr("font-size",11)
+    .attr("transform", "translate(" + 15 + "," + 0 + ")")
+    .attr("id","note_hk1");
+
+  svg_hk.append("line")
+    .attr("x1", function(){
+      return x_hk(2015)
+    })
+    .attr("y1",function(){
+      return y(-3)
+    })
+    .attr("x2", function(){
+      return x_hk(2015)
+    })
+    .attr("y2",function(){
+      return y(-9)
+    })
+    .attr("stroke-width", 1)
+    .attr("stroke", "black")
+    .attr("id","line_hk1");
+
+  
 // draw the Macao chart
 
  var svg_mk = d3.select("#graphic2").append("svg")
@@ -474,6 +543,95 @@ d3.csv("data.csv", function(error, data) {
       .attr("class", "line")
       .attr("d", line);
 
+  svg_th.append("text")
+    .text("2006 Thai coup d'état")
+    .style("text-anchor","middle")
+    .attr("x", function(){
+      return x(2006)
+    })
+    .attr("y",function(){
+      return y(35)
+    })
+    .attr("font-size",11)
+    .attr("id","note_th1");
+
+  svg_th.append("line")
+    .attr("x1", function(){
+      return x(2006)
+    })
+    .attr("y1",function(){
+      return y(25)
+    })
+    .attr("x2", function(){
+      return x(2006)
+    })
+    .attr("y2",function(){
+      return y(33)
+    })
+    .attr("stroke-width", 1)
+    .attr("stroke", "black")
+    .attr("id","line_th1");
+
+  svg_th.append("text")
+  	.text("The film Lost in Thailand released")
+  	.style("text-anchor","middle")
+  	.attr("x", function(){
+  		return x(2012)
+  	})
+  	.attr("y",function(){
+  		return y(70)
+  	})
+  	.attr("font-size",11)
+    .attr("transform", "translate(" + -25 + "," + 0 + ")")
+  	.attr("id","note_th2");
+
+  svg_th.append("line")
+  	.attr("x1", function(){
+  		return x(2012)
+  	})
+  	.attr("y1",function(){
+  		return y(68)
+  	})
+  	.attr("x2", function(){
+  		return x(2012)
+  	})
+  	.attr("y2",function(){
+  		return y(63)
+  	})
+  	.attr("stroke-width", 1)
+    .attr("stroke", "black")
+    .attr("id","line_th2");
+
+  svg_th.append("text")
+    .text("2014 Thai coup d'état")
+    .style("text-anchor","end")
+    .attr("x", function(){
+      return x(2014)
+    })
+    .attr("y",function(){
+      return y(-20)
+    })
+    .attr("font-size",11)
+    .attr("transform", "translate(" + 15 + "," + 0 + ")")
+    .attr("id","note_th3");
+
+  svg_th.append("line")
+    .attr("x1", function(){
+      return x(2014)
+    })
+    .attr("y1",function(){
+      return y(-2)
+    })
+    .attr("x2", function(){
+      return x(2014)
+    })
+    .attr("y2",function(){
+      return y(-12)
+    })
+    .attr("stroke-width", 1)
+    .attr("stroke", "black")
+    .attr("id","line_th3");
+
  
   // draw the Taiwan chart, using a different range
 
@@ -590,6 +748,35 @@ var line_tw = d3.svg.line()
       .datum(data_jp)
       .attr("class", "line")
       .attr("d", line);
+
+  svg_jp.append("text")
+    .text("2011 Tōhoku earthquake")
+    .style("text-anchor","middle")
+    .attr("x", function(){
+      return x(2011)
+    })
+    .attr("y",function(){
+      return y(-50)
+    })
+    .attr("font-size",11)
+    .attr("id","note_jp1");
+
+  svg_jp.append("line")
+    .attr("x1", function(){
+      return x(2011)
+    })
+    .attr("y1",function(){
+      return y(-28)
+    })
+    .attr("x2", function(){
+      return x(2011)
+    })
+    .attr("y2",function(){
+      return y(-45)
+    })
+    .attr("stroke-width", 1)
+    .attr("stroke", "black")
+    .attr("id","line_jp1");
 
 
 
@@ -800,25 +987,57 @@ var line_tw = d3.svg.line()
         d3.select(svg_hk.node().parentNode)
             .style("width", (width + margin.left + margin.right) + "px");
 
+        x_hk.range([0,width])
+        	.domain([2004,2015]);
+
         svg_hk.selectAll(".area")
-            .attr("d", area);
+            .attr("d", area_hk);
 
         svg_hk.selectAll(".line")
-            .attr("d",line);
+            .attr("d",line_hk);
 
-        svg_hk.select("g").call(xAxis.orient("bottom"));
+        svg_hk.select("#line_hk")
+		  	.attr("x1", function(){
+		  		return x_hk(2014)
+		  	})
+		  	.attr("y1",function(){
+		  		return y(15.958655)
+		  	})
+		  	.attr("x2", function(){
+		  		return x_hk(2015)
+		  	})
+		  	.attr("y2",function(){
+		  		return y(-1.5)
+		  	});
 
+        svg_hk.select("#note_hk1")
+          .attr("x", function(){  
+            return x_hk(2015)
+          });
 
-        d3.select(svg_mk.node().parentNode)
-            .style("width", (width + margin.left + margin.right) + "px");
+        svg_hk.select("#line_hk1") 
+        .attr("x1", function(){
+          return x_hk(2015)
+        })
+        .attr("x2", function(){
+          return x_hk(2015)
+        });
        
-        svg_mk.selectAll(".area")
-            .attr("d", area);
+  
 
-        svg_mk.selectAll(".line")
-            .attr("d",line)
+        svg_hk.select("g").call(xAxis_hk.orient("bottom"));
 
-        svg_mk.select("g").call(xAxis.orient("bottom"));
+
+        // d3.select(svg_mk.node().parentNode)
+        //     .style("width", (width + margin.left + margin.right) + "px");
+       
+        // svg_mk.selectAll(".area")
+        //     .attr("d", area);
+
+        // svg_mk.selectAll(".line")
+        //     .attr("d",line)
+
+        // svg_mk.select("g").call(xAxis.orient("bottom"));
 
 
         d3.select(svg_sk.node().parentNode)
@@ -840,7 +1059,47 @@ var line_tw = d3.svg.line()
             .attr("d", area);
 
         svg_th.selectAll(".line")
-            .attr("d",line)
+            .attr("d",line);
+
+        svg_th.select("#note_th1")  
+        .attr("x", function(){
+          return x(2006)
+        });
+       svg_th.select("#line_th1")
+        .attr("x1", function(){
+          return x(2006)
+        })
+        .attr("x2", function(){
+          return x(2006)
+        });
+    
+        svg_th.select("#note_th2")	
+		  	.attr("x", function(){
+		  		return x(2012)
+		  	});
+
+		   svg_th.select("#line_th2")
+		  	.attr("x1", function(){
+		  		return x(2012)
+		  	})
+		  	.attr("x2", function(){
+		  		return x(2012)
+		  	});
+
+        svg_th.select("#note_th3")
+          .attr("x", function(){
+            return x(2014)
+          });
+       
+        svg_th.select("#line_th3")
+          .attr("x1", function(){
+            return x(2014)
+          })
+          .attr("x2", function(){
+            return x(2014)
+          });
+          
+
 
         svg_th.select("g").call(xAxis.orient("bottom"));
 
@@ -868,6 +1127,21 @@ var line_tw = d3.svg.line()
         svg_jp.selectAll(".line")
             .attr("d",line)
 
+
+        svg_jp.select("#note_jp1")
+          .attr("x", function(){
+            return x(2011)
+          });
+       
+        svg_jp.select("#line_jp1")
+          .attr("x1", function(){
+            return x(2011)
+          })
+          .attr("x2", function(){
+            return x(2011)
+          });
+          
+
         svg_jp.select("g").call(xAxis.orient("bottom"));
 
 
@@ -883,16 +1157,16 @@ var line_tw = d3.svg.line()
         svg_us.select("g").call(xAxis.orient("bottom"));
 
 
-        d3.select(svg_vt.node().parentNode)
-            .style("width", (width + margin.left + margin.right) + "px");
+        // d3.select(svg_vt.node().parentNode)
+        //     .style("width", (width + margin.left + margin.right) + "px");
        
-        svg_vt.selectAll(".area")
-            .attr("d", area);
+        // svg_vt.selectAll(".area")
+        //     .attr("d", area);
 
-        svg_vt.selectAll(".line")
-            .attr("d",line)
+        // svg_vt.selectAll(".line")
+        //     .attr("d",line)
 
-        svg_vt.select("g").call(xAxis.orient("bottom"));
+        // svg_vt.select("g").call(xAxis.orient("bottom"));
 
 
         d3.select(svg_ms.node().parentNode)
@@ -907,16 +1181,16 @@ var line_tw = d3.svg.line()
         svg_ms.select("g").call(xAxis.orient("bottom"));
 
 
-        d3.select(svg_rs.node().parentNode)
-            .style("width", (width + margin.left + margin.right) + "px");
+        // d3.select(svg_rs.node().parentNode)
+        //     .style("width", (width + margin.left + margin.right) + "px");
        
-        svg_rs.selectAll(".area")
-            .attr("d", area);
+        // svg_rs.selectAll(".area")
+        //     .attr("d", area);
 
-        svg_rs.selectAll(".line")
-            .attr("d",line)
+        // svg_rs.selectAll(".line")
+        //     .attr("d",line)
 
-        svg_rs.select("g").call(xAxis.orient("bottom"));
+        // svg_rs.select("g").call(xAxis.orient("bottom"));
 
     }
 
